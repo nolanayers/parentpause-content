@@ -66,9 +66,9 @@
         "overview": "Babies become much more aware of their surroundings and responsive. They show early signs of memory, begin to understand cause and effect through their actions, and their senses become more integrated.",
         "points": [
           { "id": "03_cog_1", "emoji": "😃", "summary": "Recognizes familiar faces and objects at a distance", "elaboration": "Vision continues to improve significantly. Babies can now recognize familiar caregivers (parents, siblings) and favorite toys from further away than in the newborn stage, showing excitement or interest.", "activities": ["Smile and talk to your baby enthusiastically when you enter the room or approach them.", "Point out familiar objects around the house and name them repeatedly."] },
-          { "id": "03_cog_2", "emoji": "咿", "summary": "Coos and gurgles; begins to babble (e.g., 'ah-goo')", "elaboration": "Vocalizations expand beyond crying and simple throaty sounds. Babies produce more varied cooing sounds (vowel sounds like 'ooh' and 'aah') and gurgling. Towards the end of this period, some may begin early babbling, experimenting with consonant-vowel combinations like 'ba', 'ga', 'ah-goo'.", "activities": ["Respond to your baby's coos and gurgles with words, smiles, and an encouraging tone.", "Imitate their sounds to encourage vocal turn-taking and show them you're listening."] },
+          { "id": "03_cog_2", "emoji": "🎵", "summary": "Coos and gurgles; begins to babble (e.g., 'ah-goo')", "elaboration": "Vocalizations expand beyond crying and simple throaty sounds. Babies produce more varied cooing sounds (vowel sounds like 'ooh' and 'aah') and gurgling. Towards the end of this period, some may begin early babbling, experimenting with consonant-vowel combinations like 'ba', 'ga', 'ah-goo'.", "activities": ["Respond to your baby's coos and gurgles with words, smiles, and an encouraging tone.", "Imitate their sounds to encourage vocal turn-taking and show them you're listening."] },
           { "id": "03_cog_3", "emoji": "👋", "summary": "Watches faces intently; smiles spontaneously (social smile)", "elaboration": "Social smiling usually emerges reliably by 2-3 months. This is a delightful milestone where the baby smiles in response to social interaction (seeing a parent's face, hearing their voice), not just reflexively. They become fascinated by human faces and expressions.", "activities": ["Spend lots of time face-to-face with your baby, smiling, talking, and making various expressions.", "Play simple imitation games with facial expressions like opening your mouth or sticking out your tongue."] },
-          { "id": "03_cog_4", "emoji": "🔔", "summary": "Shows anticipation for routine events (e.g., feeding)", "elaboration": "Babies start to learn routines and may show signs of anticipation. For example, they might get excited or make sucking motions when they see a bottle or when a caregiver prepares for feeding.", "activities": ["Establish simple, predictable routines for feeding, bathing, and sleeping.", "Talk to your baby about what's happening: 'It's time for your milk!'"] }
+          { "id": "03_cog_4", "emoji": "🔔", "summary": "Shows anticipation for routine events (e.g., feeding)", "elaboration": "Babies start to learn routines and may show signs of anticipation. For example, they might get excited or make sucking motions when they see a bottle or when a caregiver prepares for feeding.", "activities": ["Establish simple, predictable routines for feeding, bathing, and sleeping.", "Talk to your baby about what's happening: 'It's time for your milk!'"]}
         ]
       },
       {
@@ -87,8 +87,8 @@
         "emoji": "💬",
         "overview": "Vocal range expands significantly with cooing and gurgling. Babies become more responsive in 'conversations' and listen intently to voices.",
         "points": [
-            { "id": "03_lang_1", "emoji": "옹알", "summary": "Makes cooing and gurgling sounds", "elaboration": "These are happy, vowel-like sounds ('aaah', 'oooh', 'eee') and gurgles that babies make when content. It's a sign they are exploring their vocal abilities and enjoying interaction.", "activities": ["Imitate your baby's coos and gurgles to encourage them.", "Have 'conversations' by responding to their sounds with words."] },
-            { "id": "03_lang_2", "emoji": "😮‍💨", "summary": "Turns head toward direction of sound/voices", "elaboration": "Babies become better at localizing sounds and will turn their head and eyes toward an interesting sound or a familiar voice. This shows developing auditory processing skills.", "activities": ["Call your baby's name from different sides of the room.", "Use toys that make gentle sounds to see if they turn towards them."] },
+            { "id": "03_lang_1", "emoji": "🎶", "summary": "Makes cooing and gurgling sounds", "elaboration": "These are happy, vowel-like sounds ('aaah', 'oooh', 'eee') and gurgles that babies make when content. It's a sign they are exploring their vocal abilities and enjoying interaction.", "activities": ["Imitate your baby's coos and gurgles to encourage them.", "Have 'conversations' by responding to their sounds with words."] },
+            { "id": "03_lang_2", "emoji": "👂", "summary": "Turns head toward direction of sound/voices", "elaboration": "Babies become better at localizing sounds and will turn their head and eyes toward an interesting sound or a familiar voice. This shows developing auditory processing skills.", "activities": ["Call your baby's name from different sides of the room.", "Use toys that make gentle sounds to see if they turn towards them."] },
             { "id": "03_lang_3", "emoji": "😃", "summary": "Responds with sounds when spoken to", "elaboration": "Babies begin to engage in early 'proto-conversations'. When you talk to them, they might respond with their own coos, gurgles, or babbles, showing they are learning the turn-taking rhythm of communication.", "activities": ["Pause after you speak to give your baby a chance to 'reply'.", "Use expressive tones and facial expressions when you talk."] }
         ]
       }
@@ -105,7 +105,7 @@
         "points": [
           { "id": "36_phys_1", "emoji":"🔄", "summary": "Rolls over (both directions eventually)", "elaboration": "Initially, your baby might roll from tummy to back, as this requires less coordination. Later, as core and arm strength improve, they'll master rolling from back to tummy. This new mobility opens up a whole new world for exploration!", "activities": ["Encourage lots of supervised floor play on a firm, safe surface.", "Place an enticing toy just out of reach to motivate them to roll towards it."] },
           { "id": "36_phys_2", "emoji":"🧘", "summary": "Sits with support, then briefly without", "elaboration": "With improving head control and trunk strength, babies can sit propped up with pillows or in a supportive seat. Towards 6 months, many can sit unsupported for a few moments before toppling over. This is a big step towards independent play.", "activities": ["Practice sitting in a Boppy pillow or your lap for support.", "Once they have good head control, try very brief periods of unsupported sitting on a soft surface, always staying close."] },
-          { "id": "36_phys_3", "emoji":"뻗음", "summary": "Reaches for and grasps objects purposefully", "elaboration": "Reaching becomes less reflexive and more intentional. Your baby will see an object, reach for it (often using both hands at first), and try to grasp it. They are learning hand-eye coordination.", "activities": ["Dangle interesting toys within their reach during play time.", "Offer toys of different shapes and textures for them to practice grasping."] },
+          { "id": "36_phys_3", "emoji":"🤲", "summary": "Reaches for and grasps objects purposefully", "elaboration": "Reaching becomes less reflexive and more intentional. Your baby will see an object, reach for it (often using both hands at first), and try to grasp it. They are learning hand-eye coordination.", "activities": ["Dangle interesting toys within their reach during play time.", "Offer toys of different shapes and textures for them to practice grasping."] },
           { "id": "36_phys_4", "emoji":"👄", "summary": "Brings objects to mouth", "elaboration": "The mouth is a primary tool for exploration at this age. Babies learn about texture, shape, and taste by mouthing objects. Ensure all items within reach are safe, clean, and too large to be a choking hazard.", "activities": ["Provide a variety of safe teething toys.", "Regularly clean toys that go in the mouth."] }
       ]},
       { 
@@ -114,7 +114,7 @@
         "overview": "Cognitive skills expand as babies show more curiosity about their environment, begin to understand cause and effect, and their memory improves.",
         "points": [
           { "id": "36_cog_1", "emoji":"🗣️", "summary": "Responds to own name", "elaboration": "Your baby may start to turn their head or show signs of recognition when they hear their name called. This indicates developing auditory processing and self-awareness.", "activities": ["Use your baby's name frequently and lovingly when talking to them.", "Call their name from different parts of the room to see if they orient towards you."] },
-          { "id": "36_cog_2", "emoji":"옹알", "summary": "Babbles with more variety (consonant-vowel strings)", "elaboration": "Babbling becomes more complex, with repeated consonant-vowel sounds like 'ba-ba-ba,' 'da-da-da,' or 'ma-ma-ma.' This is important practice for speech.", "activities": ["Repeat their babbles back to them and then add simple words.", "Sing songs and read books with repetitive sounds."] },
+          { "id": "36_cog_2", "emoji":"👶", "summary": "Babbles with more variety (consonant-vowel strings)", "elaboration": "Babbling becomes more complex, with repeated consonant-vowel sounds like 'ba-ba-ba,' 'da-da-da,' or 'ma-ma-ma.' This is important practice for speech.", "activities": ["Repeat their babbles back to them and then add simple words.", "Sing songs and read books with repetitive sounds."] },
           { "id": "36_cog_3", "emoji":"🤔", "summary": "Shows curiosity about objects and tries to get those out of reach", "elaboration": "Their world is expanding, and so is their desire to explore it. They'll actively try to reach for interesting things, showing developing problem-solving skills.", "activities": ["Place a favorite toy slightly out of reach during tummy time to encourage movement.", "Ensure their play area is safe for exploration."] }
       ]},
       { 
@@ -124,8 +124,501 @@
         "points": [
           { "id": "36_soc_1", "emoji":"🧐", "summary": "Distinguishes familiar faces from strangers", "elaboration": "Your baby will likely show clear recognition and preference for familiar caregivers, smiling and cooing more readily. They might be more wary or quiet around unfamiliar people.", "activities": ["Continue warm, responsive interactions with your baby.", "When introducing new people, do so gradually and while holding your baby to provide security."] },
           { "id": "36_soc_2", "emoji":"😄", "summary": "Likes to play with others, especially parents", "elaboration": "Social play becomes a highlight. They enjoy interactive games like peek-a-boo and respond with laughter and excitement to playful interactions.", "activities": ["Engage in daily playful interactions, making silly faces and sounds.", "Use puppets or soft toys to 'talk' to your baby."] },
-          { "id": "36_soc_3", "emoji":" зеркало", "summary": "Responds to other people’s expressions of emotion", "elaboration": "Babies start to mirror and respond to the emotions they see. If you smile, they might smile back; if you look sad, they might show concern. This is an early sign of empathy.", "activities": ["Exaggerate your facial expressions when interacting with your baby.", "Talk about emotions in a simple way: 'Mommy is happy!'"] }
-      ]}
+          { "id": "36_soc_3", "emoji":"🪞", "summary": "Responds to other people's expressions of emotion", "elaboration": "Babies start to mirror and respond to the emotions they see. If you smile, they might smile back; if you look sad, they might show concern. This is an early sign of empathy.", "activities": ["Exaggerate your facial expressions when interacting with your baby.", "Talk about emotions in a simple way: 'Mommy is happy!'"]}
+        ]
+      },
+      {
+        "categoryName": "Language & Communication",
+        "emoji": "💬",
+        "overview": "Vocal play expands dramatically with more complex babbling. Babies begin to understand the social nature of communication and start to participate more actively.",
+        "points": [
+          { "id": "36_lang_1", "emoji": "🎵", "summary": "Laughs out loud", "elaboration": "Real laughter emerges, showing delight and joy. This is a wonderful milestone that indicates emotional development and social engagement.", "activities": ["Play games that make your baby laugh, like gentle tickling or funny faces.", "Notice what consistently makes them laugh and repeat those activities."] },
+          { "id": "36_lang_2", "emoji": "🔀", "summary": "Imitates sounds and begins vocal play", "elaboration": "Babies start to experiment with different sounds and may attempt to imitate sounds they hear. They enjoy making sounds for the pure pleasure of it.", "activities": ["Make different sounds and see if your baby tries to copy them.", "Encourage their vocal experiments by responding enthusiastically."] },
+          { "id": "36_lang_3", "emoji": "👀", "summary": "Uses voice to express joy and displeasure", "elaboration": "Crying becomes more differentiated, and babies also use happy vocalizations to express contentment and pleasure. They are learning to use their voice as a tool for communication.", "activities": ["Pay attention to the different sounds your baby makes and what they might mean.", "Respond appropriately to both happy and distressed vocalizations."] }
+        ]
+      }
     ]
-  }
-]
+  },
+  {
+    "ageValue": 0.75,
+    "displayLabel": "6-9 months",
+    "milestones": [
+      {
+        "categoryName": "Physical Development",
+        "emoji": "💪",
+        "overview": "Major motor milestones emerge as babies gain sitting balance, begin crawling movements, and develop more sophisticated hand skills including the pincer grasp.",
+        "points": [
+          { "id": "69_phys_1", "emoji": "🪑", "summary": "Sits without support", "elaboration": "Around 6-8 months, babies develop the core strength and balance to sit independently for extended periods. This frees up their hands for play and gives them a new perspective on their world.", "activities": ["Provide plenty of safe floor time for sitting practice.", "Place toys around them in a circle to encourage reaching in all directions."] },
+          { "id": "69_phys_2", "emoji": "🐛", "summary": "Begins to crawl or scoot", "elaboration": "Mobility takes a big leap forward. Some babies army crawl, others scoot on their bottom, and some do a traditional crawl. Each baby finds their own way to move toward interesting objects.", "activities": ["Baby-proof your home as mobility increases.", "Create enticing play spaces that encourage movement."] },
+          { "id": "69_phys_3", "emoji": "👌", "summary": "Develops pincer grasp (thumb and forefinger)", "elaboration": "Fine motor skills become more refined. The pincer grasp allows babies to pick up small objects with precision, opening up new possibilities for exploration and self-feeding.", "activities": ["Offer small, safe finger foods like puffs or soft fruit pieces.", "Provide toys with small parts they can grasp (ensure they're too large to be choking hazards)."] },
+          { "id": "69_phys_4", "emoji": "🧍", "summary": "Pulls to standing position", "elaboration": "Using furniture or caregiver support, babies begin to pull themselves up to a standing position. This builds leg strength and prepares them for walking.", "activities": ["Ensure furniture is secure and safe for pulling up.", "Encourage standing play at a low table or couch with supervision."] }
+        ]
+      },
+      {
+        "categoryName": "Cognitive Development",
+        "emoji": "🧠",
+        "overview": "Object permanence begins to develop, memory improves significantly, and babies start to understand cause-and-effect relationships more clearly.",
+        "points": [
+          { "id": "69_cog_1", "emoji": "🙈", "summary": "Looks for dropped objects (object permanence)", "elaboration": "Babies begin to understand that objects continue to exist even when they can't see them. They'll look for toys that fall or are hidden, showing developing memory and spatial awareness.", "activities": ["Play simple hiding games with favorite toys under blankets.", "Let them see you hide an object and encourage them to find it."] },
+          { "id": "69_cog_2", "emoji": "🔄", "summary": "Understands cause and effect", "elaboration": "Babies start to realize their actions have consequences. They might repeatedly drop toys to see what happens or bang objects together to hear the sound.", "activities": ["Provide toys that respond to actions, like stacking rings or musical toys.", "Play games that show cause and effect, like pressing buttons that make sounds."] },
+          { "id": "69_cog_3", "emoji": "🎯", "summary": "Shows preferences for certain toys and people", "elaboration": "Clear preferences emerge as memory and personality develop. They might have a favorite toy, show clear joy at seeing certain people, or display preferences for certain activities.", "activities": ["Notice and respond to your baby's preferences.", "Provide access to preferred toys while also introducing new experiences."] },
+          { "id": "69_cog_4", "emoji": "🎪", "summary": "Explores objects in many different ways", "elaboration": "Curiosity leads to systematic exploration. Babies will shake, bang, drop, mouth, and examine objects from different angles to learn about their properties.", "activities": ["Provide safe objects with different textures, weights, and sounds.", "Allow plenty of time for free exploration of appropriate objects."] }
+        ]
+      },
+      {
+        "categoryName": "Social & Emotional Development",
+        "emoji": "😊",
+        "overview": "Stranger anxiety may emerge as attachment deepens. Babies become more socially engaging and start to show a wider range of emotions.",
+        "points": [
+          { "id": "69_soc_1", "emoji": "😰", "summary": "May develop stranger anxiety", "elaboration": "As attachment to primary caregivers strengthens, babies may become wary or distressed around unfamiliar people. This is a normal and healthy sign of developing attachment.", "activities": ["Introduce new people gradually and while holding your baby.", "Allow them time to warm up to new people without forcing interaction."] },
+          { "id": "69_soc_2", "emoji": "🙋", "summary": "Enjoys social games like peek-a-boo", "elaboration": "Interactive games become a source of great joy. Peek-a-boo is particularly appealing as it plays with the concept of object permanence and provides social connection.", "activities": ["Play peek-a-boo regularly with variations using hands, blankets, or hiding behind doors.", "Try other interactive games like pat-a-cake or 'so big!'."] },
+          { "id": "69_soc_3", "emoji": "📱", "summary": "Copies activities and expressions", "elaboration": "Imitation skills develop rapidly. Babies watch caregivers closely and attempt to copy facial expressions, actions, and sounds, showing social learning.", "activities": ["Make exaggerated facial expressions for your baby to copy.", "Demonstrate simple actions like clapping or waving for them to imitate."] },
+          { "id": "69_soc_4", "emoji": "😤", "summary": "Shows a range of emotions", "elaboration": "Emotional expression becomes more complex and differentiated. Joy, frustration, curiosity, fear, and affection are all expressed more clearly.", "activities": ["Name emotions as you see them: 'You look frustrated' or 'You seem happy!'.", "Respond sensitively to different emotional expressions."] }
+        ]
+      },
+      {
+        "categoryName": "Language & Communication",
+        "emoji": "💬",
+        "overview": "Babbling becomes more speech-like with varied consonants and vowels. Understanding of language begins to develop even before speech.",
+        "points": [
+          { "id": "69_lang_1", "emoji": "🗣️", "summary": "Babbles using many consonants (ba, da, ga)", "elaboration": "Babbling becomes more sophisticated and speech-like, incorporating a variety of consonant-vowel combinations. This vocal practice is crucial for speech development.", "activities": ["Repeat your baby's babbles back to them and expand: if they say 'ba-ba,' say 'bottle!'.", "Read books with repetitive sounds and encourage babbling along."] },
+          { "id": "69_lang_2", "emoji": "🚫", "summary": "Understands 'no' and simple commands", "elaboration": "Comprehension develops before speech production. Babies begin to understand simple words and commands, though they may not always comply!", "activities": ["Use simple, clear language consistently.", "Give simple one-step directions: 'Give me the ball.'"] },
+          { "id": "69_lang_3", "emoji": "👋", "summary": "May say first words or word-like sounds", "elaboration": "While not all babies speak their first clear words by 9 months, many begin to use sound combinations consistently for specific people or objects (like 'mama,' 'dada,' or 'baba' for bottle).", "activities": ["Celebrate any attempts at words, even if they're not perfectly clear.", "Respond to their word attempts: if they say 'ba' for ball, say 'Yes! Ball!'"] },
+          { "id": "69_lang_4", "emoji": "👋", "summary": "Uses gestures like waving bye-bye", "elaboration": "Non-verbal communication develops as babies learn to wave, clap, or reach to be picked up. These gestures are important precursors to verbal language.", "activities": ["Model gestures consistently: wave when people leave, clap when excited.", "Respond to their gesture attempts even if they're not perfect."]}
+        ]
+      }
+    ]
+  },
+  {
+    "ageValue": 1,
+    "displayLabel": "9-12 months",
+    "milestones": [
+      {
+        "categoryName": "Physical Development",
+        "emoji": "💪",
+        "overview": "Major mobility milestones as babies prepare for and often achieve independent walking. Fine motor skills continue to refine for self-feeding and manipulation.",
+        "points": [
+          { "id": "912_phys_1", "emoji": "🚶", "summary": "Cruises along furniture; may take first steps", "elaboration": "Babies pull to standing and then learn to move along furniture while holding on (cruising). Many take their first independent steps between 9-15 months, though the timing varies greatly.", "activities": ["Provide safe furniture arrangements for cruising.", "Encourage walking by holding their hands or using push toys."] },
+          { "id": "912_phys_2", "emoji": "👐", "summary": "Improved pincer grasp for self-feeding", "elaboration": "Fine motor control allows for more precise grasping of small foods and objects. Self-feeding becomes more successful, though still messy!", "activities": ["Offer a variety of finger foods cut into appropriate sizes.", "Allow self-feeding practice, even though it's messy."] },
+          { "id": "912_phys_3", "emoji": "👏", "summary": "Claps hands and points with index finger", "elaboration": "Hand coordination improves significantly. Clapping becomes intentional, and pointing emerges as an important communication tool.", "activities": ["Play clapping games and songs.", "Follow your baby's pointing and name what they're indicating."] },
+          { "id": "912_phys_4", "emoji": "🧩", "summary": "Can release objects deliberately", "elaboration": "Babies learn to let go of objects intentionally, not just by accident. This enables more sophisticated play like dropping toys into containers or stacking.", "activities": ["Provide containers for putting toys in and taking them out.", "Play simple stacking games with large, soft blocks."] }
+        ]
+      },
+      {
+        "categoryName": "Cognitive Development",
+        "emoji": "🧠",
+        "overview": "Problem-solving skills emerge strongly, along with better understanding of object permanence and increased memory capacity.",
+        "points": [
+          { "id": "912_cog_1", "emoji": "🕵️", "summary": "Finds hidden objects", "elaboration": "Object permanence becomes well-established. Babies will actively search for objects that are hidden from view, showing understanding that things continue to exist even when not visible.", "activities": ["Play hiding games with toys under blankets or behind your back.", "Hide favorite snacks or toys in simple places for them to discover."] },
+          { "id": "912_cog_2", "emoji": "🤔", "summary": "Solves simple problems", "elaboration": "Basic problem-solving emerges. Babies might figure out how to remove obstacles to reach desired objects or how to use one object to get another.", "activities": ["Present simple problems like toys just out of reach with tools nearby.", "Provide shape sorters and simple puzzles."] },
+          { "id": "912_cog_3", "emoji": "🎭", "summary": "Imitates actions and gestures", "elaboration": "Imitation becomes more sophisticated and intentional. Babies copy not just what they see in the moment, but actions they remember from earlier.", "activities": ["Demonstrate simple actions for them to copy, like stirring a pot or brushing hair.", "Play imitation games during daily activities."] },
+          { "id": "912_cog_4", "emoji": "🔍", "summary": "Shows understanding of object function", "elaboration": "Babies begin to understand that objects have specific purposes. They might try to brush their hair with a brush or hold a phone to their ear.", "activities": ["Provide toy versions of household objects for appropriate play.", "Demonstrate and name the functions of everyday items."] }
+        ]
+      },
+      {
+        "categoryName": "Social & Emotional Development",
+        "emoji": "😊",
+        "overview": "Attachment patterns become more established, and babies show increasing social awareness and emotional regulation skills.",
+        "points": [
+          { "id": "912_soc_1", "emoji": "😨", "summary": "Separation anxiety peaks", "elaboration": "Separation anxiety often intensifies around 9-10 months as babies understand that caregivers can leave but don't yet understand they'll return. This is normal and shows healthy attachment.", "activities": ["Practice short separations and always return when you say you will.", "Develop goodbye rituals to help ease separations."] },
+          { "id": "912_soc_2", "emoji": "🤝", "summary": "Shows affection to familiar people", "elaboration": "Babies begin to show clear affection through hugs, kisses, or cuddling. They may also offer toys or food to loved ones as a sign of caring.", "activities": ["Accept and reciprocate their shows of affection warmly.", "Model giving hugs and kisses appropriately."] },
+          { "id": "912_soc_3", "emoji": "🎪", "summary": "Enjoys performing for others", "elaboration": "Babies become aware that their actions can entertain others and may repeat behaviors that get positive reactions from adults.", "activities": ["Respond enthusiastically to their 'performances' with clapping and praise.", "Provide opportunities for them to 'show off' their new skills."] },
+          { "id": "912_soc_4", "emoji": "😤", "summary": "Shows frustration when goals are blocked", "elaboration": "As desires become clearer and problem-solving skills develop, babies show obvious frustration when they can't achieve their goals. This is a normal part of emotional development.", "activities": ["Help them problem-solve when they're frustrated, but allow some struggle for learning.", "Acknowledge their feelings: 'You're frustrated that toy won't fit!'"]}
+        ]
+      },
+      {
+        "categoryName": "Language & Communication",
+        "emoji": "💬",
+        "overview": "First words typically emerge, and understanding of language expands rapidly. Communication becomes more intentional and sophisticated.",
+        "points": [
+          { "id": "912_lang_1", "emoji": "💬", "summary": "Says first words ('mama,' 'dada,' 'bye-bye')", "elaboration": "True first words usually emerge between 10-14 months. These are words used consistently to refer to specific people or objects, not just random sounds.", "activities": ["Celebrate first words enthusiastically.", "Expand on their words: if they say 'up,' say 'Up! You want to go up!'"] },
+          { "id": "912_lang_2", "emoji": "👂", "summary": "Responds to simple verbal requests", "elaboration": "Understanding far exceeds speaking ability. Babies can follow simple one-step instructions like 'Come here' or 'Give me the ball,' especially with gesture support.", "activities": ["Give simple, clear instructions during daily activities.", "Use gestures along with words to support understanding."] },
+          { "id": "912_lang_3", "emoji": "🎵", "summary": "Enjoys music and may move to rhythm", "elaboration": "Babies show clear enjoyment of music and may bounce, sway, or clap along to songs. Musical engagement supports language development.", "activities": ["Sing songs with actions and encourage participation.", "Play various types of music and observe their responses."] },
+          { "id": "912_lang_4", "emoji": "👈", "summary": "Uses pointing to communicate wants", "elaboration": "Pointing becomes a sophisticated communication tool. Babies point to request objects, to share interesting things they see, or to direct adult attention.", "activities": ["Always respond to pointing by naming what they're indicating.", "Use pointing yourself to direct their attention to interesting things."]}
+        ]
+      }
+    ]
+  },
+  {
+    "ageValue": 1.5,
+    "displayLabel": "12-18 months",
+    "milestones": [
+      {
+        "categoryName": "Physical Development",
+        "emoji": "💪",
+        "overview": "Toddlerhood begins with increasingly independent mobility and more sophisticated fine motor skills. Energy levels are high as exploration drives physical activity.",
+        "points": [
+          { "id": "1218_phys_1", "emoji": "🚶‍♂️", "summary": "Walks independently", "elaboration": "Most toddlers achieve independent walking by 15 months, though the range is 9-18 months. Walking opens up tremendous opportunities for exploration and independence.", "activities": ["Provide safe spaces for walking practice both indoors and outdoors.", "Encourage walking by placing interesting objects across the room."] },
+          { "id": "1218_phys_2", "emoji": "🏃", "summary": "Begins to run and climb", "elaboration": "As walking becomes more confident, toddlers start to experiment with speed and movement variations. Climbing on furniture and playground equipment becomes appealing.", "activities": ["Provide safe climbing opportunities like low playground equipment.", "Toddler-proof areas where unsafe climbing might occur."] },
+          { "id": "1218_phys_3", "emoji": "🧱", "summary": "Stacks 2-4 blocks", "elaboration": "Hand-eye coordination and fine motor control improve enough for simple construction play. Block stacking helps develop spatial skills and planning.", "activities": ["Provide large, lightweight blocks for stacking practice.", "Build towers together and let them knock them down!"] },
+          { "id": "1218_phys_4", "emoji": "🥤", "summary": "Drinks from a cup and uses spoon (messily)", "elaboration": "Self-feeding skills develop, though coordination is still developing. Spill-proof cups and lots of practice help develop independence.", "activities": ["Provide child-sized utensils and cups.", "Allow plenty of practice time, accepting that meals will be messy."] }
+        ]
+      },
+      {
+        "categoryName": "Cognitive Development",
+        "emoji": "🧠",
+        "overview": "Thinking becomes more symbolic, with pretend play beginning to emerge. Memory improves and problem-solving becomes more sophisticated.",
+        "points": [
+          { "id": "1218_cog_1", "emoji": "🎭", "summary": "Begins simple pretend play", "elaboration": "Symbolic thinking emerges as toddlers pretend to feed a doll, 'talk' on a toy phone, or pretend to sleep. This represents a major cognitive leap.", "activities": ["Provide props for pretend play like toy phones, dolls, and kitchen items.", "Model simple pretend actions and encourage imitation."] },
+          { "id": "1218_cog_2", "emoji": "🔍", "summary": "Explores cause and effect systematically", "elaboration": "Toddlers become little scientists, repeatedly testing what happens when they do different things. This systematic exploration builds understanding of how the world works.", "activities": ["Provide toys that show clear cause-and-effect relationships.", "Allow safe exploration even when it means repeated messes."] },
+          { "id": "1218_cog_3", "emoji": "🧩", "summary": "Sorts objects by one attribute", "elaboration": "Simple categorization skills emerge. Toddlers might sort toys by color, size, or type, showing developing logical thinking.", "activities": ["Provide sorting activities with large differences (big vs small, red vs blue).", "Practice sorting during cleanup time: 'Let's put all the cars in this box.'"] },
+          { "id": "1218_cog_4", "emoji": "📚", "summary": "Points to pictures in books when named", "elaboration": "Book engagement becomes more interactive as comprehension develops. Toddlers can identify familiar objects, animals, or people in pictures.", "activities": ["Read picture books regularly and ask 'Where's the dog?'", "Let them choose books and control page turning."]}
+        ]
+      },
+      {
+        "categoryName": "Social & Emotional Development",
+        "emoji": "😊",
+        "overview": "Independence grows alongside emotional challenges. Toddlers want to do things themselves but don't always have the skills, leading to frustration.",
+        "points": [
+          { "id": "1218_soc_1", "emoji": "🙋‍♂️", "summary": "Shows independence ('me do it')", "elaboration": "Toddlers increasingly want to do things for themselves, from putting on shoes to opening doors. This drive for independence is healthy but can be challenging.", "activities": ["Allow extra time for toddlers to try tasks independently.", "Offer choices: 'Do you want to put on your shirt or your pants first?'"] },
+          { "id": "1218_soc_2", "emoji": "😭", "summary": "Has temper tantrums when frustrated", "elaboration": "Limited language and developing emotions can lead to intense outbursts. Tantrums are normal as toddlers learn to handle big feelings.", "activities": ["Stay calm during tantrums and provide comfort when they're ready.", "Help identify feelings: 'You're angry that you can't have the cookie.'"] },
+          { "id": "1218_soc_3", "emoji": "👶", "summary": "Plays alongside other children (parallel play)", "elaboration": "Social play begins, though toddlers typically play next to rather than with other children. They're interested in peers but don't yet have skills for cooperative play.", "activities": ["Arrange playdates with other toddlers.", "Supervise closely as sharing and turn-taking are still developing."] },
+          { "id": "1218_soc_4", "emoji": "🤗", "summary": "Shows affection and empathy", "elaboration": "Emotional connections deepen, and toddlers begin to show genuine empathy, comforting others who are sad or hurt.", "activities": ["Model empathy: 'Oh, the baby is crying. Should we see if she needs help?'", "Accept and reciprocate their shows of affection."]}
+        ]
+      },
+      {
+        "categoryName": "Language & Communication",
+        "emoji": "💬",
+        "overview": "Vocabulary expands rapidly, and first word combinations appear. Understanding continues to exceed speaking ability significantly.",
+        "points": [
+          { "id": "1218_lang_1", "emoji": "📈", "summary": "Vocabulary grows to 10-50 words", "elaboration": "Word learning accelerates, with new words appearing regularly. Toddlers typically understand far more words than they can say.", "activities": ["Narrate daily activities: 'Now we're putting on your shoes.'", "Read together daily and name objects and actions."] },
+          { "id": "1218_lang_2", "emoji": "💬", "summary": "Begins combining words ('more milk', 'daddy go')", "elaboration": "Two-word combinations usually appear around 18 months, representing a major language milestone. Grammar isn't perfect, but meaning is clear.", "activities": ["Expand on their word combinations: 'More milk? You want more milk!'", "Use simple sentences in your own speech."] },
+          { "id": "1218_lang_3", "emoji": "🎵", "summary": "Follows simple two-step instructions", "elaboration": "Comprehension allows for more complex directions, especially when they're related (like 'Get your shoes and bring them here').", "activities": ["Give clear, simple instructions during daily routines.", "Use visual cues along with verbal instructions."] },
+          { "id": "1218_lang_4", "emoji": "🎶", "summary": "Enjoys songs and tries to sing along", "elaboration": "Musical engagement increases, with toddlers attempting to sing favorite songs or fill in words they know.", "activities": ["Sing simple songs with repetitive words and actions.", "Pause during familiar songs to let them fill in words they know."]}
+        ]
+      }
+    ]
+  },
+  {
+    "ageValue": 2,
+    "displayLabel": "18-24 months",
+    "milestones": [
+      {
+        "categoryName": "Physical Development",
+        "emoji": "💪",
+        "overview": "Physical confidence grows as toddlers master walking and begin more complex movements. Fine motor skills improve for more sophisticated manipulation and self-care.",
+        "points": [
+          { "id": "1824_phys_1", "emoji": "🏃‍♀️", "summary": "Runs, jumps, and climbs confidently", "elaboration": "Gross motor skills advance rapidly. Toddlers run with more coordination, attempt jumping (though may not leave the ground), and climb stairs with help.", "activities": ["Provide safe outdoor spaces for running and active play.", "Practice going up and down stairs with support and supervision."] },
+          { "id": "1824_phys_2", "emoji": "⚽", "summary": "Kicks and throws balls", "elaboration": "Ball skills emerge as coordination improves. Kicking is usually easier than throwing with accuracy, but both skills develop through practice.", "activities": ["Play simple ball games in safe areas.", "Use soft balls for indoor play and various sized balls for different challenges."] },
+          { "id": "1824_phys_3", "emoji": "🖍️", "summary": "Scribbles with crayons", "elaboration": "Fine motor control enables early drawing attempts. Scribbling is purposeful exploration of mark-making and hand control.", "activities": ["Provide large paper and chunky crayons for scribbling.", "Let them watch you draw and offer them chances to add to your pictures."] },
+          { "id": "1824_phys_4", "emoji": "🧩", "summary": "Builds towers of 6+ blocks", "elaboration": "Construction skills advance significantly. Building towers requires planning, patience, and fine motor control, all of which are developing.", "activities": ["Provide various building materials: blocks, boxes, containers.", "Build together and celebrate their architectural achievements!"]}
+        ]
+      },
+      {
+        "categoryName": "Cognitive Development",
+        "emoji": "🧠",
+        "overview": "Symbolic thinking expands dramatically with more complex pretend play. Memory, attention span, and problem-solving all show significant growth.",
+        "points": [
+          { "id": "1824_cog_1", "emoji": "🏠", "summary": "Engages in complex pretend play", "elaboration": "Pretend play becomes more elaborate and story-like. Toddlers might have tea parties, 'feed' dolls entire meals, or pretend to go shopping.", "activities": ["Provide dress-up clothes and props for role-playing.", "Join in their pretend play and follow their lead."] },
+          { "id": "1824_cog_2", "emoji": "🔤", "summary": "Understands concepts like 'big' and 'small'", "elaboration": "Abstract concepts begin to make sense. Toddlers can identify and use basic descriptive words about size, though they might not always use them correctly.", "activities": ["Use descriptive words throughout the day: 'That's a big truck!'", "Play sorting games focusing on different attributes."] },
+          { "id": "1824_cog_3", "emoji": "🧠", "summary": "Remembers and talks about past events", "elaboration": "Memory develops to the point where toddlers can recall and discuss things that happened earlier in the day or week, showing developing narrative skills.", "activities": ["Talk about recent activities: 'Remember when we went to the park?'", "Look at photos together and discuss what happened."] },
+          { "id": "1824_cog_4", "emoji": "🔧", "summary": "Solves simple problems by trial and error", "elaboration": "Problem-solving becomes more systematic. Toddlers will try different approaches when the first one doesn't work, showing persistence and learning.", "activities": ["Provide age-appropriate puzzles and shape sorters.", "Allow them to work through problems independently before offering help."]}
+        ]
+      },
+      {
+        "categoryName": "Social & Emotional Development",
+        "emoji": "😊",
+        "overview": "The 'terrible twos' emerge as toddlers assert independence while still needing significant support. Emotional regulation is a major area of development.",
+        "points": [
+          { "id": "1824_soc_1", "emoji": "🚫", "summary": "Tests limits and shows defiance", "elaboration": "Boundary testing is normal and healthy as toddlers learn about rules and develop autonomy. Consistency in responses helps them learn expectations.", "activities": ["Set clear, simple rules and follow through consistently.", "Offer choices within acceptable limits: 'Do you want to brush teeth first or put on pajamas?'"] },
+          { "id": "1824_soc_2", "emoji": "🤝", "summary": "Begins to share (with prompting)", "elaboration": "Sharing is a complex skill that develops gradually. Toddlers understand the concept but need lots of practice and support to do it consistently.", "activities": ["Practice taking turns with simple activities.", "Model sharing: 'I'll share my crackers with you!'"] },
+          { "id": "1824_soc_3", "emoji": "🎭", "summary": "Shows a range of emotions and moods", "elaboration": "Emotional life becomes richer and more complex. Joy, anger, frustration, excitement, and affection are all expressed more clearly.", "activities": ["Name emotions as you see them: 'You look disappointed.'", "Read books about emotions and discuss feelings."] },
+          { "id": "1824_soc_4", "emoji": "👨‍👩‍👧‍👦", "summary": "Imitates adult behaviors more complex", "elaboration": "Imitation becomes more sophisticated as toddlers copy longer sequences of adult behaviors, like pretending to make dinner or talk on the phone.", "activities": ["Let them 'help' with household tasks in age-appropriate ways.", "Provide toy versions of adult tools and appliances."]}
+        ]
+      },
+      {
+        "categoryName": "Language & Communication",
+        "emoji": "💬",
+        "overview": "Language development accelerates dramatically with vocabulary expanding rapidly and grammar beginning to emerge.",
+        "points": [
+          { "id": "1824_lang_1", "emoji": "📚", "summary": "Vocabulary reaches 50-200+ words", "elaboration": "The 'word spurt' often occurs around 18-24 months, with new words appearing almost daily. Toddlers become word-learning machines.", "activities": ["Continue reading together daily.", "Describe activities and objects throughout the day."] },
+          { "id": "1824_lang_2", "emoji": "💭", "summary": "Uses 2-3 word phrases regularly", "elaboration": "Grammar emerges as toddlers combine words into meaningful phrases. 'Me go,' 'More cookie,' and 'Daddy car' are typical examples.", "activities": ["Expand their phrases: 'Daddy car? Yes, that's Daddy's car!'", "Use simple, clear sentences in your own speech."] },
+          { "id": "1824_lang_3", "emoji": "❓", "summary": "Asks simple questions ('What's that?')", "elaboration": "Curiosity drives language as toddlers begin asking questions about their world. 'What's that?' becomes a favorite phrase.", "activities": ["Answer their questions enthusiastically and add extra information.", "Ask them questions too: 'What color is the ball?'"] },
+          { "id": "1824_lang_4", "emoji": "📖", "summary": "Follows more complex instructions", "elaboration": "Understanding allows for longer, more complex directions, especially when they relate to familiar routines or interesting activities.", "activities": ["Give multi-step instructions during routines: 'Get your shoes and socks from your room.'", "Use books to practice following directions in stories."]}
+        ]
+      }
+    ]
+  },
+  {
+    "ageValue": 2.5,
+    "displayLabel": "2-3 years",
+    "milestones": [
+      {
+        "categoryName": "Physical Development",
+        "emoji": "💪",
+        "overview": "Physical skills become more refined and coordinated. Potty training often begins, and independence in self-care activities increases.",
+        "points": [
+          { "id": "23_phys_1", "emoji": "🚲", "summary": "Pedals tricycle or riding toy", "elaboration": "Leg coordination develops enough for pedaling, though steering may still be challenging. Riding toys help develop balance and coordination.", "activities": ["Provide age-appropriate riding toys for both indoor and outdoor use.", "Practice in safe, open areas where they can build confidence."] },
+          { "id": "23_phys_2", "emoji": "🏃‍♂️", "summary": "Jumps with both feet leaving ground", "elaboration": "True jumping emerges as both feet can leave the ground simultaneously. This requires significant coordination and leg strength.", "activities": ["Practice jumping games: 'Jump like a frog!' or 'Jump over the line!'", "Use trampolines or bounce houses for supervised jumping fun."] },
+          { "id": "23_phys_3", "emoji": "🚽", "summary": "Shows readiness for potty training", "elaboration": "Signs of potty training readiness vary, but may include staying dry for longer periods, showing interest in the bathroom, or expressing discomfort with dirty diapers.", "activities": ["Introduce a potty chair and let them sit on it clothed at first.", "Read books about potty training together."] },
+          { "id": "23_phys_4", "emoji": "✂️", "summary": "Uses scissors with supervision", "elaboration": "Fine motor skills develop enough for simple cutting activities. Safety scissors and thick paper or playdough work best for beginners.", "activities": ["Provide child-safe scissors and practice cutting playdough or thick paper.", "Always supervise scissor use and teach proper handling."]}
+        ]
+      },
+      {
+        "categoryName": "Cognitive Development",
+        "emoji": "🧠",
+        "overview": "Abstract thinking develops further with better understanding of concepts like counting, colors, and categorization. Attention span increases.",
+        "points": [
+          { "id": "23_cog_1", "emoji": "🔢", "summary": "Counts to 3-5 objects accurately", "elaboration": "Number concepts begin to develop, though understanding that the last number represents the total quantity is still emerging.", "activities": ["Count objects during daily activities: 'One apple, two apples, three apples!'", "Use finger counting games and songs."] },
+          { "id": "23_cog_2", "emoji": "🌈", "summary": "Knows some colors and shapes", "elaboration": "Basic concepts like red, blue, circle, and square become meaningful. Recognition usually comes before being able to name them.", "activities": ["Point out colors and shapes throughout the day.", "Use sorting activities focusing on color and shape."] },
+          { "id": "23_cog_3", "emoji": "📚", "summary": "Retells simple stories", "elaboration": "Memory and language skills combine to allow basic storytelling. Details may be mixed up, but the main events are usually remembered.", "activities": ["Read the same books repeatedly to build familiarity.", "Ask them to tell you what happened in familiar stories."] },
+          { "id": "23_cog_4", "emoji": "🏗️", "summary": "Completes simple puzzles (3-4 pieces)", "elaboration": "Spatial reasoning and fine motor skills combine for puzzle success. Simple wooden puzzles with large pieces work best.", "activities": ["Start with knob puzzles and progress to simple jigsaw puzzles.", "Work on puzzles together, letting them place pieces independently."]}
+        ]
+      },
+      {
+        "categoryName": "Social & Emotional Development",
+        "emoji": "😊",
+        "overview": "Social skills develop as parallel play transitions toward more interactive play. Emotional regulation improves but is still developing.",
+        "points": [
+          { "id": "23_soc_1", "emoji": "👫", "summary": "Plays more interactively with peers", "elaboration": "While still largely parallel, play becomes more interactive with more turn-taking, imitation, and shared attention to activities.", "activities": ["Arrange regular playdates with peers.", "Teach simple games that involve turn-taking."] },
+          { "id": "23_soc_2", "emoji": "😤", "summary": "Tantrums decrease but still occur", "elaboration": "As language improves, tantrums may become less frequent, but they still occur when emotions overwhelm limited coping skills.", "activities": ["Continue to stay calm during tantrums and offer comfort when ready.", "Teach simple emotion words and coping strategies."] },
+          { "id": "23_soc_3", "emoji": "🤗", "summary": "Shows empathy and concern for others", "elaboration": "Empathy develops more clearly as toddlers comfort crying friends or show concern when others are hurt.", "activities": ["Model empathy in daily interactions.", "Talk about others' feelings: 'Look, your friend looks sad.'"] },
+          { "id": "23_soc_4", "emoji": "🙋‍♀️", "summary": "Seeks independence but needs security", "elaboration": "The push for independence continues, but toddlers still need the security of knowing caregivers are available when needed.", "activities": ["Offer choices and opportunities for independence within safe limits.", "Be available for comfort when independence attempts become overwhelming."]}
+        ]
+      },
+      {
+        "categoryName": "Language & Communication",
+        "emoji": "💬",
+        "overview": "Grammar develops rapidly with longer sentences. Pronunciation improves, though some sounds may still be unclear.",
+        "points": [
+          { "id": "23_lang_1", "emoji": "📈", "summary": "Vocabulary of 200-1000 words", "elaboration": "Word learning continues at a rapid pace. Most children this age understand far more words than they can say.", "activities": ["Continue expanding vocabulary through reading and conversation.", "Introduce new words during daily activities."] },
+          { "id": "23_lang_2", "emoji": "💬", "summary": "Uses 3-4 word sentences", "elaboration": "Sentence length increases and basic grammar emerges. 'I want cookie' or 'Daddy go work' are typical examples.", "activities": ["Expand their sentences: 'You want a cookie! You're hungry!'", "Use complete sentences in your own speech."] },
+          { "id": "23_lang_3", "emoji": "❓", "summary": "Asks many 'why' and 'what' questions", "elaboration": "Curiosity about the world leads to constant questioning. This can be exhausting for parents but is crucial for learning.", "activities": ["Answer questions patiently and encourage further questioning.", "Ask them questions too to stimulate thinking."] },
+          { "id": "23_lang_4", "emoji": "🗣️", "summary": "Speech is understood by strangers most of the time", "elaboration": "Pronunciation improves significantly, though some sounds (like 'r' and 'th') may still be developing.", "activities": ["Don't worry about perfect pronunciation - focus on communication.", "Read together to expose them to correct pronunciation naturally."]}
+        ]
+      }
+    ]
+  },
+  {
+    "ageValue": 3.5,
+    "displayLabel": "3-4 years (Preschool)",
+    "milestones": [
+      {
+        "categoryName": "Physical Development",
+        "emoji": "💪",
+        "overview": "Preschoolers develop more advanced gross and fine motor skills, with increased coordination, balance, and strength for complex physical activities.",
+        "points": [
+          { "id": "34_phys_1", "emoji": "🏃‍♀️", "summary": "Runs smoothly, changes direction", "elaboration": "Running becomes more coordinated with the ability to start, stop, and change direction without falling. Balance and spatial awareness improve significantly.", "activities": ["Play running games like tag or red light/green light.", "Create obstacle courses with cones or markers to practice direction changes."] },
+          { "id": "34_phys_2", "emoji": "⚽", "summary": "Hops on one foot, catches bounced ball", "elaboration": "Balance develops enough for brief one-foot hopping, and hand-eye coordination improves for catching larger, slower-moving balls.", "activities": ["Practice hopping games and counting hops.", "Play gentle catch with large, soft balls."] },
+          { "id": "34_phys_3", "emoji": "🖍️", "summary": "Draws circles, crosses, and simple people", "elaboration": "Fine motor control enables recognizable shapes and early representational drawing. 'Tadpole people' (head with legs) are typical.", "activities": ["Provide plenty of drawing materials and paper.", "Encourage drawing without worrying about accuracy."] },
+          { "id": "34_phys_4", "emoji": "👔", "summary": "Dresses and undresses with minimal help", "elaboration": "Self-care skills advance significantly. Managing most clothing independently builds confidence and fine motor skills.", "activities": ["Choose clothes with easy fasteners (velcro, large buttons).", "Allow extra time for independent dressing attempts."]}
+        ]
+      },
+      {
+        "categoryName": "Cognitive Development",
+        "emoji": "🧠",
+        "overview": "Thinking becomes more logical and organized. Academic readiness skills like counting, letter recognition, and categorization develop rapidly.",
+        "points": [
+          { "id": "34_cog_1", "emoji": "🔤", "summary": "Recognizes some letters, especially in own name", "elaboration": "Letter recognition begins, often starting with the letters in their own name. This is an important pre-literacy skill.", "activities": ["Point out letters in everyday environments: signs, books, labels.", "Practice writing their name with finger painting or magnetic letters."] },
+          { "id": "34_cog_2", "emoji": "🔢", "summary": "Counts to 10, understands 'more' and 'less'", "elaboration": "Number concepts become more sophisticated with understanding of quantity comparisons and counting with one-to-one correspondence.", "activities": ["Count everything: stairs, crackers, toys.", "Compare quantities: 'Which pile has more blocks?'"] },
+          { "id": "34_cog_3", "emoji": "📚", "summary": "Understands sequence in familiar stories", "elaboration": "Story comprehension improves with understanding of beginning, middle, and end. They can predict what comes next in familiar tales.", "activities": ["Read favorite stories repeatedly and ask 'What happens next?'", "Act out simple stories with props or puppets."] },
+          { "id": "34_cog_4", "emoji": "🧠", "summary": "Categorizes objects by multiple attributes", "elaboration": "Classification skills advance to sorting by more than one attribute (big red blocks vs. small blue blocks).", "activities": ["Provide sorting activities with multiple categories.", "Play 'I Spy' games focusing on attributes."]}
+        ]
+      },
+      {
+        "categoryName": "Social & Emotional Development",
+        "emoji": "😊",
+        "overview": "Cooperative play emerges alongside developing emotional regulation. Friendships begin to form, and social rules become more important.",
+        "points": [
+          { "id": "34_soc_1", "emoji": "🤝", "summary": "Engages in cooperative play", "elaboration": "True cooperation emerges as children play together toward shared goals, like building something together or playing house with assigned roles.", "activities": ["Encourage group projects like building with blocks together.", "Teach games that require cooperation rather than competition."] },
+          { "id": "34_soc_2", "emoji": "👫", "summary": "Develops preferences for certain friends", "elaboration": "Friendship concepts develop as children show clear preferences for playing with specific peers and may talk about friends when they're apart.", "activities": ["Arrange playdates with preferred friends.", "Talk about friendship qualities: kindness, sharing, fun."] },
+          { "id": "34_soc_3", "emoji": "😌", "summary": "Better emotional self-regulation", "elaboration": "Tantrums become less frequent as language improves and emotional coping strategies develop, though they still occur during stress.", "activities": ["Teach simple calming strategies: deep breaths, counting to 10.", "Validate emotions while maintaining boundaries."] },
+          { "id": "34_soc_4", "emoji": "⚖️", "summary": "Understands rules and fairness", "elaboration": "Rule understanding develops, though interpretation may be rigid. 'That's not fair!' becomes a common phrase as justice concepts emerge.", "activities": ["Establish clear, consistent household rules.", "Explain reasons behind rules to help understanding."]}
+        ]
+      },
+      {
+        "categoryName": "Language & Communication",
+        "emoji": "💬",
+        "overview": "Language becomes more sophisticated with complex sentences, storytelling abilities, and improved pronunciation. Communication skills advance rapidly.",
+        "points": [
+          { "id": "34_lang_1", "emoji": "📈", "summary": "Vocabulary of 1000-2000 words", "elaboration": "Word learning continues rapidly with understanding far exceeding speaking vocabulary. Complex concepts can be understood and discussed.", "activities": ["Introduce new vocabulary through books and experiences.", "Encourage questions about word meanings."] },
+          { "id": "34_lang_2", "emoji": "💬", "summary": "Uses complex sentences with 4-6 words", "elaboration": "Grammar becomes more sophisticated with conjunctions (and, but), prepositions (in, on, under), and more complex structures.", "activities": ["Model complex sentences in your own speech.", "Expand their sentences: 'The cat is sleeping. Yes, the big orange cat is sleeping on the soft couch!'"] },
+          { "id": "34_lang_3", "emoji": "📖", "summary": "Tells simple stories with beginning, middle, end", "elaboration": "Narrative skills develop as children can tell coherent stories about real or imagined events with logical sequence.", "activities": ["Encourage storytelling about daily events.", "Look at wordless picture books and create stories together."] },
+          { "id": "34_lang_4", "emoji": "🗣️", "summary": "Speech is clear and understandable", "elaboration": "Pronunciation improves significantly, with most speech being understood by strangers. Some complex sounds may still be developing.", "activities": ["Focus on communication rather than perfect pronunciation.", "Model correct pronunciation naturally without direct correction."]}
+        ]
+      }
+    ]
+  },
+  {
+    "ageValue": 4.5,
+    "displayLabel": "4-5 years",
+    "milestones": [
+      {
+        "categoryName": "Physical Development",
+        "emoji": "💪",
+        "overview": "Physical skills become more refined and controlled. Children can participate in organized activities and sports with basic rules.",
+        "points": [
+          { "id": "45_phys_1", "emoji": "🤸‍♀️", "summary": "Skips, gallops, and moves rhythmically to music", "elaboration": "Complex movement patterns emerge requiring coordination, rhythm, and balance. Movement becomes more expressive and controlled.", "activities": ["Play music and encourage different types of movement.", "Learn simple folk dances or movement songs."] },
+          { "id": "45_phys_2", "emoji": "🏀", "summary": "Throws ball overhead, kicks with accuracy", "elaboration": "Ball skills become more purposeful and accurate. Children can aim and adjust their movements based on intended targets.", "activities": ["Practice throwing and kicking with targets.", "Introduce simple ball games with basic rules."] },
+          { "id": "45_phys_3", "emoji": "✏️", "summary": "Draws recognizable people, houses, animals", "elaboration": "Representational drawing advances significantly with recognizable figures including details like fingers, facial features, and environmental elements.", "activities": ["Encourage drawing from observation and imagination.", "Display their artwork and discuss what they've drawn."] },
+          { "id": "45_phys_4", "emoji": "👠", "summary": "Manages buttons, zippers, shoelaces", "elaboration": "Fine motor skills advance enough for complex fasteners, though shoelaces may still be challenging.", "activities": ["Practice fastener skills on dressing boards or their own clothes.", "Be patient as they work on independence."]}
+        ]
+      },
+      {
+        "categoryName": "Cognitive Development",
+        "emoji": "🧠",
+        "overview": "Pre-academic skills develop rapidly with increased attention span, memory, and logical thinking. School readiness becomes apparent.",
+        "points": [
+          { "id": "45_cog_1", "emoji": "🔤", "summary": "Recognizes and writes some letters", "elaboration": "Letter knowledge expands beyond their name to include many uppercase and some lowercase letters. Writing attempts become more controlled.", "activities": ["Practice letter recognition with alphabet books and games.", "Encourage writing letters in sand, finger paint, or on paper."] },
+          { "id": "45_cog_2", "emoji": "🔢", "summary": "Counts to 20, basic addition with objects", "elaboration": "Mathematical thinking develops with understanding of quantity, basic addition concepts using concrete objects, and number sequence.", "activities": ["Use manipulatives for counting and simple math.", "Incorporate math into daily activities: cooking, shopping, games."] },
+          { "id": "45_cog_3", "emoji": "🧩", "summary": "Completes 20-piece puzzles", "elaboration": "Spatial reasoning and persistence allow for more complex puzzle completion, requiring planning and problem-solving skills.", "activities": ["Provide increasingly complex puzzles.", "Work on puzzles together, discussing strategies."] },
+          { "id": "45_cog_4", "emoji": "🎯", "summary": "Focuses on activities for 15-20 minutes", "elaboration": "Attention span increases significantly, allowing for longer, more complex activities and learning experiences.", "activities": ["Provide activities that can be completed in one sitting.", "Gradually increase the complexity of focused activities."]}
+        ]
+      },
+      {
+        "categoryName": "Social & Emotional Development",
+        "emoji": "😊",
+        "overview": "Social skills become more sophisticated with better understanding of others' perspectives and more mature friendship behaviors.",
+        "points": [
+          { "id": "45_soc_1", "emoji": "🎭", "summary": "Engages in elaborate pretend play with others", "elaboration": "Imaginative play becomes complex with detailed scenarios, role assignments, and sustained cooperation over longer periods.", "activities": ["Provide props and costumes for dramatic play.", "Allow unstructured time for child-led imaginative play."] },
+          { "id": "45_soc_2", "emoji": "🤔", "summary": "Understands others have different thoughts and feelings", "elaboration": "Theory of mind develops as children begin to understand that others may think, feel, or know different things than they do.", "activities": ["Discuss different perspectives: 'How do you think your friend felt when that happened?'", "Read books that explore characters' different viewpoints."] },
+          { "id": "45_soc_3", "emoji": "🤝", "summary": "Shows increased empathy and helpfulness", "elaboration": "Prosocial behaviors increase as children actively try to help others, comfort friends, and contribute to group activities.", "activities": ["Encourage helping behaviors at home and with peers.", "Acknowledge and praise empathetic actions."] },
+          { "id": "45_soc_4", "emoji": "😤", "summary": "Argues and negotiates more", "elaboration": "As thinking becomes more sophisticated, children challenge rules and try to negotiate, showing developing reasoning skills.", "activities": ["Allow some negotiation within reasonable limits.", "Explain reasoning behind rules and decisions."]}
+        ]
+      },
+      {
+        "categoryName": "Language & Communication",
+        "emoji": "💬",
+        "overview": "Language becomes quite sophisticated with complex grammar, extensive vocabulary, and developing literacy awareness.",
+        "points": [
+          { "id": "45_lang_1", "emoji": "📚", "summary": "Vocabulary of 2000-4000 words", "elaboration": "Word knowledge expands dramatically with understanding of abstract concepts, emotions, and complex relationships between ideas.", "activities": ["Continue reading complex books with rich vocabulary.", "Encourage questions about word meanings and provide explanations."] },
+          { "id": "45_lang_2", "emoji": "💬", "summary": "Uses complex grammar and tells detailed stories", "elaboration": "Sentences become long and complex with proper use of past and future tenses, conjunctions, and embedded clauses.", "activities": ["Encourage storytelling about real and imagined events.", "Ask open-ended questions that promote detailed responses."] },
+          { "id": "45_lang_3", "emoji": "🔤", "summary": "Shows interest in writing and spelling", "elaboration": "Literacy awareness grows with attempts at writing words, asking about spelling, and understanding that print carries meaning.", "activities": ["Encourage invented spelling and writing attempts.", "Provide writing materials and opportunities for daily writing."] },
+          { "id": "45_lang_4", "emoji": "❓", "summary": "Asks sophisticated questions about how and why", "elaboration": "Questioning becomes more complex, seeking explanations about how things work, why things happen, and what might happen if...", "activities": ["Answer questions thoughtfully and encourage further inquiry.", "Explore answers together through books, experiments, or observations."]}
+        ]
+      }
+    ]
+  },
+  {
+    "ageValue": 5.5,
+    "displayLabel": "5-6 years (Kindergarten)",
+    "milestones": [
+      {
+        "categoryName": "Physical Development",
+        "emoji": "💪",
+        "overview": "Physical skills prepare children for formal schooling with improved fine motor control for writing and more advanced gross motor skills for organized sports and activities.",
+        "points": [
+          { "id": "56_phys_1", "emoji": "🏃‍♂️", "summary": "Rides bicycle, skates, or scooters", "elaboration": "Balance and coordination advance enough for wheeled activities. These skills require integration of multiple motor systems and spatial awareness.", "activities": ["Provide opportunities for wheeled toys with appropriate safety equipment.", "Practice in safe, controlled environments."] },
+          { "id": "56_phys_2", "emoji": "🤾‍♀️", "summary": "Shows hand preference and improved coordination", "elaboration": "Hand dominance becomes clearly established, and bilateral coordination improves for complex tasks requiring both hands.", "activities": ["Provide activities that use both hands together: cutting, stringing beads.", "Don't force hand preference but provide tools for the preferred hand."] },
+          { "id": "56_phys_3", "emoji": "📝", "summary": "Writes name and simple words", "elaboration": "Fine motor control and letter knowledge combine for early writing skills. Letters may be large and spacing irregular, but formation improves.", "activities": ["Practice writing with various tools: pencils, markers, chalk.", "Focus on proper grip and letter formation."] },
+          { "id": "56_phys_4", "emoji": "⚽", "summary": "Participates in organized sports/games", "elaboration": "Physical skills and rule understanding combine to allow participation in simple organized activities with basic strategies.", "activities": ["Enroll in age-appropriate sports or movement classes.", "Focus on fun and skill development rather than competition."]}
+        ]
+      },
+      {
+        "categoryName": "Cognitive Development",
+        "emoji": "🧠",
+        "overview": "Academic skills emerge strongly with reading readiness, mathematical thinking, and improved executive functioning skills like planning and attention.",
+        "points": [
+          { "id": "56_cog_1", "emoji": "📖", "summary": "Recognizes sight words, sounds out simple words", "elaboration": "Reading skills emerge with recognition of common words and basic phonetic decoding abilities. Some children begin reading simple books.", "activities": ["Read together daily and point out words.", "Practice phonics through games and activities."] },
+          { "id": "56_cog_2", "emoji": "➕", "summary": "Adds and subtracts numbers to 10", "elaboration": "Mathematical reasoning develops with understanding of basic addition and subtraction concepts, usually with concrete manipulatives.", "activities": ["Use everyday situations for math practice: sharing snacks, counting toys.", "Provide math manipulatives for hands-on learning."] },
+          { "id": "56_cog_3", "emoji": "📅", "summary": "Understands time concepts (yesterday, tomorrow)", "elaboration": "Temporal reasoning develops with understanding of basic time sequences and concepts, though clock time may still be confusing.", "activities": ["Use calendar activities and discuss daily schedules.", "Talk about time concepts during daily routines."] },
+          { "id": "56_cog_4", "emoji": "🎯", "summary": "Follows multi-step instructions independently", "elaboration": "Working memory and executive functioning improve to allow following complex directions without constant reminders.", "activities": ["Give increasingly complex instructions for daily tasks.", "Break down big tasks into manageable steps."]}
+        ]
+      },
+      {
+        "categoryName": "Social & Emotional Development",
+        "emoji": "😊",
+        "overview": "School readiness includes social skills like following classroom rules, working in groups, and managing emotions in structured environments.",
+        "points": [
+          { "id": "56_soc_1", "emoji": "🏫", "summary": "Adapts to school routines and rules", "elaboration": "Social maturity develops to handle structured environments with multiple rules, transitions, and expectations for independent behavior.", "activities": ["Establish routines at home that mirror school expectations.", "Practice following group rules through games and activities."] },
+          { "id": "56_soc_2", "emoji": "👥", "summary": "Works cooperatively in small groups", "elaboration": "Collaboration skills advance to allow productive work with peers toward shared goals, with some adult guidance still needed.", "activities": ["Provide group projects and activities at home.", "Teach conflict resolution and compromise skills."] },
+          { "id": "56_soc_3", "emoji": "😊", "summary": "Shows pride in accomplishments", "elaboration": "Self-esteem develops as children recognize their growing competencies and take pride in learning new skills and completing tasks.", "activities": ["Celebrate efforts and improvements, not just results.", "Display their work and acknowledge their growing abilities."] },
+          { "id": "56_soc_4", "emoji": "🤗", "summary": "Forms close friendships", "elaboration": "Friendship skills mature with ability to maintain longer-term relationships, show loyalty, and provide emotional support to peers.", "activities": ["Facilitate opportunities for sustained friendships.", "Discuss friendship qualities and how to be a good friend."]}
+        ]
+      },
+      {
+        "categoryName": "Language & Communication",
+        "emoji": "💬",
+        "overview": "Language skills support academic learning with sophisticated vocabulary, complex sentence structures, and emerging literacy skills.",
+        "points": [
+          { "id": "56_lang_1", "emoji": "📚", "summary": "Uses vocabulary of 4000-6000 words", "elaboration": "Word knowledge becomes extensive enough to support academic learning across different subjects and abstract concepts.", "activities": ["Continue rich conversations and reading experiences.", "Encourage use of precise vocabulary in descriptions."] },
+          { "id": "56_lang_2", "emoji": "📖", "summary": "Retells stories with detail and sequence", "elaboration": "Narrative skills develop to include plot details, character motivations, and logical sequence, supporting reading comprehension.", "activities": ["Ask for detailed retellings after reading stories.", "Encourage them to create their own stories."] },
+          { "id": "56_lang_3", "emoji": "✍️", "summary": "Attempts to write stories and letters", "elaboration": "Writing skills emerge with attempts to communicate through written language, though spelling may be inventive and grammar developing.", "activities": ["Provide opportunities for purposeful writing: letters, lists, stories.", "Focus on ideas and communication rather than perfect spelling."] },
+          { "id": "56_lang_4", "emoji": "🗣️", "summary": "Explains thinking and reasoning", "elaboration": "Metacognitive skills develop as children can explain their thought processes, justify their answers, and discuss their learning.", "activities": ["Ask 'how do you know?' and 'why do you think that?'", "Encourage them to explain their reasoning in various situations."]}
+        ]
+      }
+    ]
+  },
+  {
+    "ageValue": 7,
+    "displayLabel": "6-8 years (Early Elementary)",
+    "milestones": [
+      {
+        "categoryName": "Physical Development",
+        "emoji": "💪",
+        "overview": "Physical skills become more refined and specialized. Children can participate in complex sports and activities requiring sustained attention and practice.",
+        "points": [
+          { "id": "68_phys_1", "emoji": "⚾", "summary": "Develops specific sports skills and interests", "elaboration": "Physical abilities allow for learning specific sports techniques and rules. Individual interests and talents may begin to emerge.", "activities": ["Expose children to various sports and physical activities.", "Support their interests while encouraging continued exploration."] },
+          { "id": "68_phys_2", "emoji": "✂️", "summary": "Uses tools skillfully (scissors, rulers, etc.)", "elaboration": "Fine motor control advances to allow precise use of school and craft tools, supporting academic and creative activities.", "activities": ["Provide opportunities for crafts requiring precision.", "Teach proper tool use and safety."] },
+          { "id": "68_phys_3", "emoji": "📝", "summary": "Writes legibly with proper spacing", "elaboration": "Handwriting becomes more controlled with appropriate letter size, spacing, and formation, supporting academic success.", "activities": ["Practice handwriting regularly with proper instruction.", "Provide lined paper and writing tools appropriate for their development."] },
+          { "id": "68_phys_4", "emoji": "🎨", "summary": "Creates detailed drawings and crafts", "elaboration": "Artistic abilities advance with attention to detail, realistic proportions, and creative expression through various media.", "activities": ["Provide diverse art materials and instruction.", "Display and discuss their artistic creations."]}
+        ]
+      },
+      {
+        "categoryName": "Cognitive Development",
+        "emoji": "🧠",
+        "overview": "Academic skills solidify with fluent reading, mathematical reasoning, and improved ability to think logically about concrete problems.",
+        "points": [
+          { "id": "68_cog_1", "emoji": "📚", "summary": "Reads fluently with comprehension", "elaboration": "Reading skills become automatic, allowing children to focus on meaning rather than decoding. They can read longer texts and discuss content.", "activities": ["Provide books at appropriate reading levels.", "Discuss books and ask comprehension questions."] },
+          { "id": "68_cog_2", "emoji": "🔢", "summary": "Understands place value, adds/subtracts two-digit numbers", "elaboration": "Mathematical thinking becomes more abstract with understanding of number systems and multi-step problem solving.", "activities": ["Use real-world math problems and applications.", "Provide manipulatives and visual aids for complex concepts."] },
+          { "id": "68_cog_3", "emoji": "🔬", "summary": "Shows logical thinking about concrete problems", "elaboration": "Reasoning abilities develop for problems involving concrete, observable phenomena, though abstract thinking is still developing.", "activities": ["Encourage scientific observation and experimentation.", "Discuss cause-and-effect relationships in daily life."] },
+          { "id": "68_cog_4", "emoji": "💭", "summary": "Understands rules and consequences", "elaboration": "Moral reasoning develops with understanding of fairness, rules, and the connection between actions and consequences.", "activities": ["Discuss moral dilemmas appropriate for their age.", "Involve them in creating family or classroom rules."]}
+        ]
+      },
+      {
+        "categoryName": "Social & Emotional Development",
+        "emoji": "😊",
+        "overview": "Social skills become more sophisticated with better peer relationships, understanding of group dynamics, and developing sense of fairness and morality.",
+        "points": [
+          { "id": "68_soc_1", "emoji": "👫", "summary": "Develops close same-gender friendships", "elaboration": "Friendship patterns often show preference for same-gender peers with shared interests and activities becoming important for social bonding.", "activities": ["Support their friendships while encouraging inclusion of all children.", "Teach friendship skills like loyalty, kindness, and conflict resolution."] },
+          { "id": "68_soc_2", "emoji": "🏆", "summary": "Compares self to peers in abilities", "elaboration": "Self-concept develops through social comparison, which can motivate improvement but may also create anxiety about performance.", "activities": ["Emphasize personal growth rather than comparison to others.", "Help them understand that people have different strengths."] },
+          { "id": "68_soc_3", "emoji": "⚖️", "summary": "Strong sense of fairness and rules", "elaboration": "Moral development emphasizes rule-following and fairness, though understanding may be rigid and black-and-white.", "activities": ["Discuss different perspectives on fairness.", "Help them understand that rules can have exceptions and context matters."] },
+          { "id": "68_soc_4", "emoji": "😌", "summary": "Better emotional regulation in social situations", "elaboration": "Social-emotional skills improve for managing feelings in group settings, though stress can still overwhelm these developing skills.", "activities": ["Teach coping strategies for social stress.", "Practice problem-solving for common social conflicts."]}
+        ]
+      },
+      {
+        "categoryName": "Language & Communication",
+        "emoji": "💬",
+        "overview": "Language skills support academic learning across subjects with sophisticated vocabulary, complex grammar, and developing writing abilities.",
+        "points": [
+          { "id": "68_lang_1", "emoji": "📖", "summary": "Reads for pleasure and information", "elaboration": "Reading becomes a tool for learning and enjoyment, with children able to extract information from texts and read independently.", "activities": ["Provide access to diverse books and reading materials.", "Encourage reading for both pleasure and learning."] },
+          { "id": "68_lang_2", "emoji": "✍️", "summary": "Writes organized paragraphs with main ideas", "elaboration": "Writing skills develop to include organization, topic sentences, and supporting details, though editing skills are still emerging.", "activities": ["Provide structured writing practice with feedback.", "Encourage journaling and creative writing."] },
+          { "id": "68_lang_3", "emoji": "🗣️", "summary": "Participates in group discussions", "elaboration": "Communication skills advance to include turn-taking in discussions, listening to others' ideas, and building on others' contributions.", "activities": ["Facilitate family discussions about various topics.", "Teach active listening and respectful disagreement."] },
+          { "id": "68_lang_4", "emoji": "📚", "summary": "Vocabulary supports academic subjects", "elaboration": "Word knowledge becomes specialized for different academic areas, with understanding of subject-specific terminology and concepts.", "activities": ["Introduce vocabulary related to their interests and studies.", "Discuss word meanings and connections across subjects."]}
+        ]
+      }
+    ]
+  },
+  {
+    "ageValue": 9,
+    "displayLabel": "8-10 years (Late Elementary)",
+    "milestones": [
+      {
+        "categoryName": "Physical Development",
+        "emoji": "💪",
+        "overview": "Physical skills continue to refine with increased strength, coordination, and endurance. Individual differences in physical development become more apparent.",
+        "points": [
+          { "id": "810_phys_1", "emoji": "🏊‍♀️", "summary": "Participates in complex physical activities", "elaboration": "Advanced coordination allows for complex sports, dance, or physical activities requiring multiple skills and sustained practice.", "activities": ["Support involvement in organized activities that match their interests.", "Encourage persistence in developing physical skills."] },
+          { "id": "810_phys_2", "emoji": "🎨", "summary": "Shows refined fine motor skills", "elaboration": "Precision tasks become easier, allowing for detailed artwork, complex building projects, and skilled use of various tools.", "activities": ["Provide opportunities for detailed crafts and building projects.", "Encourage hobbies that develop fine motor skills."] },
+          { "id": "810_phys_3", "emoji": "⏰", "summary": "Has more stamina for physical and mental tasks", "elaboration": "Endurance increases for both physical activities and sustained mental effort, supporting longer academic work periods.", "activities": ["Gradually increase expectations for sustained work.", "Balance focused work with physical activity breaks."] },
+          { "id": "810_phys_4", "emoji": "🧘‍♀️", "summary": "Develops body awareness and self-care", "elaboration": "Understanding of personal health and hygiene increases, with greater independence in self-care routines.", "activities": ["Teach about nutrition, exercise, and health habits.", "Encourage independence in personal care routines."]}
+        ]
+      },
+      {
+        "categoryName": "Cognitive Development",
+        "emoji": "🧠",
+        "overview": "Thinking becomes more flexible and sophisticated with improved abstract reasoning, problem-solving strategies, and academic skills across subjects.",
+        "points": [
+          { "id": "810_cog_1", "emoji": "🧮", "summary": "Masters basic math facts and multi-step problems", "elaboration": "Mathematical fluency develops with automatic recall of math facts and ability to solve complex, multi-step problems with understanding.", "activities": ["Practice math facts until they become automatic.", "Present real-world problems requiring multiple steps."] },
+          { "id": "810_cog_2", "emoji": "📚", "summary": "Reads complex texts with analysis", "elaboration": "Reading comprehension advances to include analysis of character motivation, theme, and author's purpose in complex texts.", "activities": ["Discuss books at deeper levels: themes, character development.", "Encourage reading across genres and subjects."] },
+          { "id": "810_cog_3", "emoji": "🔬", "summary": "Uses scientific thinking and hypothesis testing", "elaboration": "Logical reasoning develops to include forming hypotheses, conducting experiments, and drawing conclusions based on evidence.", "activities": ["Encourage scientific experiments and observation.", "Discuss how to test ideas and draw conclusions."] },
+          { "id": "810_cog_4", "emoji": "🧩", "summary": "Solves problems with multiple strategies", "elaboration": "Problem-solving becomes more sophisticated with ability to consider multiple approaches and select appropriate strategies.", "activities": ["Present open-ended problems with multiple solutions.", "Discuss different approaches to solving problems."]}
+        ]
+      },
+      {
+        "categoryName": "Social & Emotional Development",
+        "emoji": "😊",
+        "overview": "Social relationships become more complex with best friendships, group dynamics, and developing understanding of social hierarchies and peer pressure.",
+        "points": [
+          { "id": "810_soc_1", "emoji": "👥", "summary": "Forms close friendships with shared interests", "elaboration": "Friendships deepen with mutual interests, loyalty, and emotional support becoming important features of peer relationships.", "activities": ["Support their friendships while teaching healthy relationship skills.", "Discuss what makes a good friend and how to resolve conflicts."] },
+          { "id": "810_soc_2", "emoji": "🏆", "summary": "Competitive but learning
