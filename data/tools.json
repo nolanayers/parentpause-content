@@ -764,6 +764,374 @@
         "Developing lifelong healthy eating patterns and positive relationship with food can be nurtured",
         "Understanding global food systems, sustainability, and ethical food choices might interest environmentally conscious pre-teens",
         "Age-appropriate preparation for adolescent nutritional needs and body changes (with healthcare provider guidance) can be helpful"
+     ] 
+    }
+  ],
+       "11": [
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Advanced strategy games and complex puzzles that challenge developing abstract thinking abilities",
+        "Creative pursuits allowing for self-expression (advanced art, music composition, creative writing)", 
+        "Young adult literature and non-fiction that explores identity, values, and complex themes",
+        "Technology projects requiring planning and problem-solving (app development, robotics, digital media creation)",
+        "Intellectual competitions and academic challenges (debate team, science olympiad, academic bowls)",
+        "Cultural experiences that broaden worldview (foreign films, diverse literature, cultural events)"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Specialized skill development in areas of passion with potential for advanced achievement",
+        "Team sports emphasizing strategy, leadership, and commitment may appeal to dedicated athletes", 
+        "Individual fitness routines tailored to personal goals and interests can build healthy habits",
+        "Leadership opportunities in school and community organizations might develop confidence",
+        "Advanced life skills including basic financial literacy and time management can be valuable",
+        "Community service and volunteer work may help develop empathy and social awareness"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Navigating early adolescent friendship changes and peer group dynamics with support and guidance",
+        "Understanding and managing increased emotional intensity and mood changes can be important", 
+        "Developing stronger sense of personal identity and values with family guidance",
+        "Learning to handle academic pressure and organizational demands may require support",
+        "Understanding appropriate boundaries in relationships becomes increasingly important",
+        "Beginning to explore interests in romantic relationships with age-appropriate guidance"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Understanding nutrition needs for rapid physical growth and development during early adolescence",
+        "Independent meal planning and cooking skills with guidance can support growing autonomy", 
+        "Developing healthy relationship with body image during physical changes may require support",
+        "Learning about nutrition for athletic performance and academic focus can be relevant",
+        "Understanding the impact of nutrition on mood, energy, and sleep patterns may be helpful",
+        "Discussing media influences on food choices and body image with critical thinking skills"
+      ] 
+    }
+  ],
+  "12": [
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Complex games requiring strategic thinking and long-term planning (advanced board games, strategy video games)",
+        "Creative projects that allow for personal expression and skill development in areas of interest", 
+        "Literature and media that explore coming-of-age themes and diverse perspectives",
+        "Technology creation and programming projects that challenge problem-solving abilities",
+        "Performance opportunities that build confidence (theater, music, public speaking)",
+        "Educational travel or cultural experiences that expand understanding of the world"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Competitive sports or individual athletics with focus on personal growth and teamwork",
+        "Advanced skill development in chosen areas with potential for mentoring younger participants", 
+        "Regular fitness routines that promote lifelong healthy habits and stress management",
+        "Leadership roles in clubs, teams, or community organizations can build confidence",
+        "Real-world skill development including basic job skills and financial responsibility",
+        "Service learning opportunities that connect personal interests with community needs"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Managing increasing independence while maintaining family connections and communication",
+        "Navigating peer pressure and social hierarchies with strong personal values", 
+        "Developing conflict resolution skills for more complex social situations",
+        "Understanding and expressing emotions in healthy ways during adolescent changes",
+        "Building deeper friendships based on shared values and interests",
+        "Beginning to understand healthy relationship dynamics and appropriate boundaries"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Understanding increased nutritional needs during peak growth periods with healthcare guidance",
+        "Developing skills in meal planning, grocery shopping, and cooking for independence", 
+        "Maintaining healthy eating patterns despite busy schedules and social pressures",
+        "Understanding the connection between nutrition, physical performance, and academic success",
+        "Developing critical thinking about diet culture and unrealistic body standards",
+        "Learning to fuel active lifestyles appropriately while maintaining balanced eating"
+      ] 
+    }
+  ],
+  "13": [
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Sophisticated entertainment that challenges thinking and explores complex themes",
+        "Creative outlets that support identity exploration and self-expression", 
+        "Literature, films, and media that present diverse perspectives and mature themes",
+        "Technology projects that combine creativity with technical skills",
+        "Intellectual pursuits that align with developing interests and potential career paths",
+        "Social activities that balance independence with family time and values"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Advanced athletic or artistic pursuits with opportunities for achievement and recognition",
+        "Physical fitness routines that support overall health and stress management", 
+        "Leadership opportunities in school, community, or religious organizations",
+        "Job preparation skills including work ethic, communication, and responsibility",
+        "Academic challenges that prepare for high school rigor and future goals",
+        "Service opportunities that develop empathy and social responsibility"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Developing stronger sense of personal identity while maintaining family relationships",
+        "Managing increased academic and social pressures with healthy coping strategies", 
+        "Understanding and navigating romantic feelings and relationships with guidance",
+        "Building friendships based on mutual respect and shared values",
+        "Learning to stand up for personal beliefs while respecting others' viewpoints",
+        "Developing emotional regulation skills for typical adolescent mood fluctuations"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Understanding how nutrition supports optimal growth, athletic performance, and academic focus",
+        "Developing independent eating skills while maintaining family meal connections", 
+        "Learning to make healthy choices in school and social settings with peer pressure",
+        "Understanding the role of nutrition in managing stress, mood, and energy levels",
+        "Developing body positivity and rejecting harmful diet culture messages",
+        "Learning to balance social eating opportunities with overall healthy patterns"
+      ] 
+    }
+  ],
+  "14": [
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Entertainment choices that reflect developing personal interests and values",
+        "Creative pursuits that may evolve into serious hobbies or potential career interests", 
+        "Media consumption with critical thinking about messages and values",
+        "Technology use that balances recreation with productive and educational purposes",
+        "Social entertainment that supports positive peer relationships and family bonds",
+        "Cultural experiences that broaden perspective and understanding of diversity"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "High school preparation including academic skills and organizational strategies",
+        "Athletic or artistic commitments that teach dedication and goal-setting", 
+        "Regular physical activity that supports physical and mental health",
+        "Leadership experiences that build confidence and communication skills",
+        "Beginning career exploration through job shadowing or informational interviews",
+        "Community involvement that develops civic responsibility and empathy"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Maintaining strong family relationships while developing age-appropriate independence",
+        "Managing high school transition and increased academic and social expectations", 
+        "Developing healthy romantic relationship skills with appropriate boundaries",
+        "Building peer relationships based on mutual respect and positive influences",
+        "Learning to handle peer pressure and make independent decisions aligned with values",
+        "Developing communication skills for conflict resolution and emotional expression"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Understanding nutritional needs for continued growth and increasing activity levels",
+        "Developing meal planning and cooking skills for increasing independence", 
+        "Making healthy choices despite busy schedules and social pressures",
+        "Understanding the connection between nutrition and mental health, mood, and academic performance",
+        "Maintaining positive body image during continued physical development",
+        "Learning to navigate social eating situations while maintaining personal health goals"
+      ] 
+    }
+  ],
+  "15": [
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Entertainment choices that reflect maturing interests and developing adult preferences",
+        "Creative pursuits that may influence college and career planning decisions", 
+        "Media consumption with sophisticated critical analysis of content and messages",
+        "Technology use that includes productive applications and potential career exploration",
+        "Social activities that balance independence with family values and expectations",
+        "Cultural experiences that prepare for adult engagement with diverse communities"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Academic pursuits that begin to reflect post-secondary goals and interests",
+        "Athletic or artistic achievements that may influence college applications or scholarships", 
+        "Regular fitness routines that establish lifelong health and stress management habits",
+        "Leadership roles that develop skills relevant to future college and career success",
+        "Part-time work or internships that provide real-world experience and responsibility",
+        "Community service that reflects personal values and develops civic engagement"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Balancing increasing independence with maintaining strong family connections and communication",
+        "Managing academic pressure and beginning college preparation with healthy stress management", 
+        "Developing mature romantic relationship skills with appropriate physical and emotional boundaries",
+        "Maintaining friendships while navigating changing interests and social dynamics",
+        "Making independent decisions that reflect personal values and long-term goals",
+        "Developing empathy and social awareness through diverse experiences and relationships"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Understanding nutrition needs for peak growth periods and increasing athletic or academic demands",
+        "Developing full meal planning, shopping, and cooking independence with guidance", 
+        "Maintaining healthy eating patterns despite busy schedules and social pressures",
+        "Understanding how nutrition impacts athletic performance, academic focus, and mood regulation",
+        "Developing critical thinking about diet trends and maintaining balanced approach to eating",
+        "Learning to make healthy choices in various social and academic settings"
+      ] 
+    }
+  ],
+  "16": [
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Entertainment choices that reflect developing adult tastes and intellectual interests",
+        "Creative pursuits that may become serious hobbies or inform college and career decisions", 
+        "Media consumption with critical analysis of bias, quality, and cultural impact",
+        "Technology use that balances recreation with productivity and potential career preparation",
+        "Social activities that demonstrate increasing maturity and independence",
+        "Cultural experiences that prepare for adult civic and cultural engagement"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Academic challenges that prepare for college-level coursework and independent learning",
+        "Athletic or artistic pursuits at competitive levels with understanding of commitment and sacrifice", 
+        "Regular fitness and wellness routines that support physical and mental health",
+        "Leadership experiences that develop skills for college and future career success",
+        "Part-time employment that provides financial responsibility and work experience",
+        "Driving privileges and responsibilities that demonstrate maturity and judgment"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Developing adult-like relationships with parents based on mutual respect and communication",
+        "Managing college preparation stress and decisions with family support and guidance", 
+        "Navigating serious romantic relationships with understanding of healthy boundaries and communication",
+        "Maintaining meaningful friendships while respecting different paths and choices",
+        "Making independent decisions about values, beliefs, and life direction",
+        "Developing social and emotional intelligence for adult relationships and responsibilities"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Understanding adult nutritional needs and maintaining health during busy, stressful periods",
+        "Full independence in meal planning, shopping, and cooking with continued family guidance available", 
+        "Making healthy choices independently across various social and academic settings",
+        "Understanding the role of nutrition in managing stress, supporting academic performance, and athletic achievement",
+        "Maintaining positive body image and healthy relationship with food during continued development",
+        "Developing lifelong patterns of balanced eating that support overall health and wellbeing"
+      ] 
+    }
+  ],
+  "17": [
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Entertainment preferences that reflect mature interests and developing adult identity",
+        "Creative pursuits that may influence college major selection or career exploration", 
+        "Media consumption with sophisticated critical thinking about quality, bias, and cultural impact",
+        "Technology use that demonstrates digital citizenship and professional awareness",
+        "Social activities that balance independence with family values and long-term goals",
+        "Cultural experiences that prepare for adult participation in diverse communities"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Advanced academic preparation for college success including independent research and critical thinking",
+        "Athletic or artistic achievements that may influence college admissions and scholarship opportunities", 
+        "Comprehensive fitness and wellness routines that establish lifelong healthy habits",
+        "Significant leadership roles that develop skills for college and career success",
+        "Meaningful work experience that provides financial responsibility and professional skills",
+        "Community involvement that reflects personal values and develops civic responsibility"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Transitioning to adult relationship with parents while maintaining connection and respect",
+        "Managing college application process and life transition decisions with appropriate support", 
+        "Developing mature romantic relationship skills with understanding of commitment and communication",
+        "Maintaining important friendships while supporting different paths and life choices",
+        "Making independent decisions about beliefs, values, and life direction with family input",
+        "Developing emotional maturity and social skills for adult relationships and responsibilities"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Understanding adult nutritional needs and maintaining health during high-stress periods",
+        "Complete independence in nutrition planning with family consultation available as needed", 
+        "Making consistently healthy choices across all settings including social pressures",
+        "Understanding nutrition's role in managing stress, optimizing performance, and supporting mental health",
+        "Maintaining body positivity and balanced relationship with food as physical development concludes",
+        "Establishing eating patterns that will support health and wellbeing throughout adulthood"
+      ] 
+    }
+  ],
+  "18": [
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Adult entertainment choices that reflect personal values and developed interests",
+        "Creative pursuits that may become lifelong hobbies or professional interests", 
+        "Media consumption with mature critical analysis and cultural awareness",
+        "Technology use that demonstrates professional competence and digital responsibility",
+        "Social activities that reflect adult independence while maintaining family connections",
+        "Cultural engagement that demonstrates readiness for adult civic and social participation"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Academic or career preparation that demonstrates readiness for adult responsibilities",
+        "Athletic or artistic pursuits at adult levels with understanding of lifelong commitment", 
+        "Independent health and fitness management that supports long-term wellbeing",
+        "Leadership experiences that prepare for adult professional and civic roles",
+        "Financial independence and work experience that demonstrate adult responsibility",
+        "Community engagement that reflects personal values and civic awareness"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Adult relationship with family based on mutual respect, independence, and continued connection",
+        "Managing transition to college or career with confidence and appropriate support systems", 
+        "Engaging in mature romantic relationships with full understanding of healthy communication and boundaries",
+        "Maintaining meaningful friendships while navigating different life paths and responsibilities",
+        "Making independent life decisions while valuing family input and maintaining important relationships",
+        "Demonstrating emotional maturity and social skills for successful adult relationships and civic participation"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Full adult competence in nutrition planning and health management",
+        "Complete independence in meal planning, shopping, and cooking with established healthy patterns", 
+        "Making consistently healthy choices across all adult settings and social pressures",
+        "Understanding nutrition's role in supporting adult health, performance, and mental wellbeing",
+        "Maintaining positive body image and balanced relationship with food throughout adult life",
+        "Established eating patterns that support long-term health, energy, and life goals"
       ] 
     }
   ]
