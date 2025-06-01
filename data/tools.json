@@ -534,7 +534,237 @@
         "Participating in packing own lunch and preparing simple snacks",
         "Understanding basic nutrition labels and making informed choices",
         "Demonstrating table manners and appropriate social eating behaviors"
+     ] 
+    }
+  ],
+  "6": [
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Board games requiring strategy and reading (Monopoly Junior, Scrabble Junior)",
+        "Craft kits with detailed instructions (jewelry making, model building)", 
+        "Chapter books appropriate for beginning readers",
+        "Educational computer games and coding activities for beginners",
+        "Complex building sets (advanced Lego, K'NEX, magnetic tiles)",
+        "Card games teaching strategy and math (Go Fish, Crazy Eights, simple poker)"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Bike riding without training wheels on various terrains",
+        "Team sports with rules and positions (soccer, basketball, baseball)", 
+        "Swimming lessons focusing on stroke development and water safety",
+        "Organized physical activities (martial arts, gymnastics, dance classes)",
+        "Household responsibilities (making bed, simple meal prep, laundry sorting)",
+        "Nature activities (hiking, camping, gardening, bird watching)"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Maintaining friendships and handling friend conflicts independently",
+        "Understanding and practicing good sportsmanship in competitive activities", 
+        "Participating in group projects and collaborative learning",
+        "Developing empathy and understanding different perspectives",
+        "Learning to be a good friend (loyalty, kindness, inclusion)",
+        "Beginning to understand and respect cultural differences"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Understanding balanced meals and making healthy plate choices",
+        "Preparing simple meals and snacks independently (sandwiches, salads)", 
+        "Learning about nutrition labels and ingredient lists",
+        "Understanding the connection between nutrition and physical performance",
+        "Practicing mindful eating and recognizing hunger and fullness cues",
+        "Trying foods from different cultures and expanding palate"
+      ] 
+    }
+  ],
+  "7": [
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Strategy board games requiring planning ahead (Chess, Checkers, Risk Junior)",
+        "Advanced craft projects (woodworking kits, detailed models, sewing)", 
+        "Chapter books with complex storylines and character development",
+        "Educational technology: coding games, robotics kits, science apps",
+        "Puzzle games requiring logic and problem-solving (Sudoku for kids, brain teasers)",
+        "Musical instruments with formal lessons (piano, guitar, violin)"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Advanced bike skills (tricks, longer distances, different bike types)",
+        "Competitive team sports with understanding of strategy and teamwork", 
+        "Swimming: developing endurance and learning different strokes",
+        "Individual sports and activities (tennis, golf, rock climbing)",
+        "Increased household responsibilities (cooking simple meals, yard work)",
+        "Outdoor adventures (camping, hiking longer trails, orienteering)"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Navigating more complex friendship dynamics and peer pressure",
+        "Learning conflict resolution skills and compromise", 
+        "Participating in community activities (volunteering, school events)",
+        "Understanding and practicing inclusivity and standing up for others",
+        "Developing leadership skills in group settings",
+        "Beginning to understand social hierarchies and fairness"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Planning and preparing balanced meals with minimal supervision",
+        "Understanding food safety and kitchen hygiene practices", 
+        "Learning about sustainable eating and environmental impact of food choices",
+        "Understanding how nutrition affects mood, energy, and academic performance",
+        "Practicing portion control and listening to body's hunger signals",
+        "Exploring cooking techniques and following more complex recipes"
+      ] 
+    }
+  ],
+  "8": [
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Complex strategy games and adult board games with supervision (Settlers of Catan, Ticket to Ride)",
+        "Advanced building and engineering projects (robotics, electronics kits)", 
+        "Young adult novels and non-fiction books on topics of interest",
+        "Creative technology use (video editing, digital art, simple programming)",
+        "Advanced puzzles and brain games (1000+ piece puzzles, logic puzzles)",
+        "Performance activities (school plays, talent shows, music recitals)"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Mastering advanced physical skills in chosen sports or activities",
+        "Team sports with focus on skill development and competitive play", 
+        "Individual fitness activities (running, cycling, strength training basics)",
+        "Life skills development (money management, time management, organization)",
+        "Significant household contributions (meal planning, grocery shopping help)",
+        "Adventure activities (rock climbing, kayaking, more challenging hikes)"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Handling peer pressure and making independent social choices",
+        "Understanding and managing emotions in social situations", 
+        "Participating in organized groups (scouts, clubs, student government)",
+        "Developing strong moral compass and understanding right from wrong",
+        "Learning to be a mentor to younger children",
+        "Understanding and respecting diverse perspectives and backgrounds"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Understanding macronutrients and their roles in health and performance",
+        "Preparing complete meals for family with confidence", 
+        "Making informed choices about snacks and treats (moderation vs restriction)",
+        "Understanding emotional eating and developing healthy coping strategies",
+        "Learning about food budgeting and shopping for nutritious, affordable options",
+        "Exploring nutrition for athletic performance and recovery"
+      ] 
+    }
+  ],
+  "9": [
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Adult-level strategy games and complex board games (full Monopoly, Risk, advanced strategy games)",
+        "Independent creative projects (writing stories, making films, advanced art)", 
+        "Age-appropriate young adult literature and non-fiction",
+        "Technology creation projects (building websites, advanced coding, app development basics)",
+        "Competitive puzzle solving and brain training activities",
+        "Cultural activities (museum visits, concerts, theater productions)"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Specialized skill development in areas of interest (advanced sports, arts, academics)",
+        "Competitive sports with understanding of dedication and practice requirements", 
+        "Independent fitness routines and understanding of personal health",
+        "Leadership roles in household management and family responsibilities",
+        "Advanced life skills (basic first aid, emergency preparedness, communication skills)",
+        "Community involvement and service learning opportunities"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Navigating pre-teen social complexities with confidence and integrity",
+        "Understanding and managing changing friendships and social groups", 
+        "Taking on leadership roles in school and community activities",
+        "Developing strong personal values and standing up for beliefs",
+        "Understanding and practicing digital citizenship and online safety",
+        "Beginning to understand and respect romantic feelings and boundaries"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Understanding nutrition for growing, changing body and increased activity levels",
+        "Planning and shopping for nutritious meals within budget constraints", 
+        "Understanding body image, healthy weight, and rejecting diet culture",
+        "Cooking confidently for family and understanding cultural food traditions",
+        "Making informed decisions about supplements and sports nutrition",
+        "Understanding the social aspects of food and eating in various cultural contexts"
+      ] 
+    }
+  ],
+  "10": [
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Complex strategy games requiring advanced planning and critical thinking",
+        "Independent pursuit of hobbies and interests (advanced crafts, collections, specialized skills)", 
+        "Reading materials across various genres including biographies and historical fiction",
+        "Technology mastery for creative and educational purposes (advanced coding, digital design)",
+        "Intellectual challenges (debate, chess tournaments, academic competitions)",
+        "Cultural exploration through books, documentaries, and educational travel"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Mastery-level skills in chosen physical activities with potential for coaching others",
+        "Understanding of training, practice, and long-term skill development", 
+        "Independent health and fitness management with goal-setting",
+        "Significant family responsibilities and contribution to household functioning",
+        "Advanced life skills preparation (money management, basic car maintenance, job skills)",
+        "Leadership in community service and youth organizations"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Mature handling of complex social situations and peer relationships",
+        "Understanding and managing stress, anxiety, and emotional challenges", 
+        "Strong leadership skills and ability to influence peers positively",
+        "Well-developed moral reasoning and ethical decision-making",
+        "Responsible technology use and understanding of digital footprint",
+        "Beginning to understand adult relationships and preparing for adolescent changes"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Comprehensive understanding of nutrition science and its application to personal health",
+        "Independent meal planning, shopping, and cooking for varied dietary needs", 
+        "Understanding nutrition's role in mental health, academic performance, and athletic achievement",
+        "Developing lifelong healthy eating patterns and relationship with food",
+        "Understanding global food systems, sustainability, and ethical food choices",
+        "Preparing for adolescent nutritional needs and body changes with confidence"
       ] 
     }
   ]
-}
+    }
