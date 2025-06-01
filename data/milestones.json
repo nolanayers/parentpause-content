@@ -590,35 +590,3 @@
     ]
   },
   {
-    "ageValue": 9,
-    "displayLabel": "8-10 years (Late Elementary)",
-    "milestones": [
-      {
-        "categoryName": "Physical Development",
-        "emoji": "💪",
-        "overview": "Physical skills continue to refine with increased strength, coordination, and endurance. Individual differences in physical development become more apparent.",
-        "points": [
-          { "id": "810_phys_1", "emoji": "🏊‍♀️", "summary": "Participates in complex physical activities", "elaboration": "Advanced coordination allows for complex sports, dance, or physical activities requiring multiple skills and sustained practice.", "activities": ["Support involvement in organized activities that match their interests.", "Encourage persistence in developing physical skills."] },
-          { "id": "810_phys_2", "emoji": "🎨", "summary": "Shows refined fine motor skills", "elaboration": "Precision tasks become easier, allowing for detailed artwork, complex building projects, and skilled use of various tools.", "activities": ["Provide opportunities for detailed crafts and building projects.", "Encourage hobbies that develop fine motor skills."] },
-          { "id": "810_phys_3", "emoji": "⏰", "summary": "Has more stamina for physical and mental tasks", "elaboration": "Endurance increases for both physical activities and sustained mental effort, supporting longer academic work periods.", "activities": ["Gradually increase expectations for sustained work.", "Balance focused work with physical activity breaks."] },
-          { "id": "810_phys_4", "emoji": "🧘‍♀️", "summary": "Develops body awareness and self-care", "elaboration": "Understanding of personal health and hygiene increases, with greater independence in self-care routines.", "activities": ["Teach about nutrition, exercise, and health habits.", "Encourage independence in personal care routines."]}
-        ]
-      },
-      {
-        "categoryName": "Cognitive Development",
-        "emoji": "🧠",
-        "overview": "Thinking becomes more flexible and sophisticated with improved abstract reasoning, problem-solving strategies, and academic skills across subjects.",
-        "points": [
-          { "id": "810_cog_1", "emoji": "🧮", "summary": "Masters basic math facts and multi-step problems", "elaboration": "Mathematical fluency develops with automatic recall of math facts and ability to solve complex, multi-step problems with understanding.", "activities": ["Practice math facts until they become automatic.", "Present real-world problems requiring multiple steps."] },
-          { "id": "810_cog_2", "emoji": "📚", "summary": "Reads complex texts with analysis", "elaboration": "Reading comprehension advances to include analysis of character motivation, theme, and author's purpose in complex texts.", "activities": ["Discuss books at deeper levels: themes, character development.", "Encourage reading across genres and subjects."] },
-          { "id": "810_cog_3", "emoji": "🔬", "summary": "Uses scientific thinking and hypothesis testing", "elaboration": "Logical reasoning develops to include forming hypotheses, conducting experiments, and drawing conclusions based on evidence.", "activities": ["Encourage scientific experiments and observation.", "Discuss how to test ideas and draw conclusions."] },
-          { "id": "810_cog_4", "emoji": "🧩", "summary": "Solves problems with multiple strategies", "elaboration": "Problem-solving becomes more sophisticated with ability to consider multiple approaches and select appropriate strategies.", "activities": ["Present open-ended problems with multiple solutions.", "Discuss different approaches to solving problems."]}
-        ]
-      },
-      {
-        "categoryName": "Social & Emotional Development",
-        "emoji": "😊",
-        "overview": "Social relationships become more complex with best friendships, group dynamics, and developing understanding of social hierarchies and peer pressure.",
-        "points": [
-          { "id": "810_soc_1", "emoji": "👥", "summary": "Forms close friendships with shared interests", "elaboration": "Friendships deepen with mutual interests, loyalty, and emotional support becoming important features of peer relationships.", "activities": ["Support their friendships while teaching healthy relationship skills.", "Discuss what makes a good friend and how to resolve conflicts."] },
-          { "id": "810_soc_2", "emoji": "🏆", "summary": "Competitive but learning
