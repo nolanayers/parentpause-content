@@ -1,0 +1,193 @@
+[
+  {
+    "id": "common_tantrums_meltdowns",
+    "name": "Tantrums & Meltdowns",
+    "emoji": "😡",
+    "overview": "Tantrums are intense emotional outbursts common in young children who haven't yet developed strong emotional regulation or verbal communication skills. They are often a sign of overwhelm.",
+    "behaviors": [
+      {
+        "id": "tantrum_understanding",
+        "name": "Understanding Tantrums",
+        "emoji": "🤯",
+        "explanation": "Tantrums are a normal part of development, especially between ages 1-4. They occur when a child is overwhelmed by big emotions (frustration, anger, disappointment, confusion) and lacks the skills to express or manage them effectively. Triggers can include tiredness, hunger, overstimulation, or not getting what they want.",
+        "childFeelings": "Your child might be feeling: Completely overwhelmed, out of control, intense frustration, anger, confusion, unheard, or powerless.",
+        "empathyPrompt": "Remember, they're not *giving* you a hard time, they're *having* a hard time. Their brain's emotional control center is still under construction.",
+        "sampleResponses": [
+          "Stay as calm as possible yourself. Your calm presence is a powerful anchor.",
+          "Ensure their safety. If they are thrashing, gently move them to a safe space or remove dangerous objects.",
+          "Acknowledge their feeling (without necessarily giving in to demands): 'I see you're very upset because you wanted that toy.' or 'It's so frustrating when things don't go our way.'",
+          "Use minimal words during the peak of the tantrum. They are unlikely to process complex explanations.",
+          "Offer comfort once they begin to calm: 'Would you like a hug?' or simply sit nearby.",
+          "Later, when calm, briefly talk about what happened and healthy ways to express feelings: 'You were so angry. Next time, you can tell me 'I'm mad!' or stomp your feet.'"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "common_sharing_difficulties",
+    "name": "Sharing Difficulties",
+    "emoji": "🤝",
+    "overview": "Sharing is a complex social skill that develops over time. Young children are naturally egocentric and learning about ownership.",
+    "behaviors": [
+      {
+        "id": "sharing_challenges",
+        "name": "Navigating Sharing Challenges",
+        "emoji": "🧸",
+        "explanation": "True sharing (understanding and willingly participating in give-and-take) is a skill that develops gradually, often not fully grasped until age 3.5-4 or older. Toddlers are learning about 'mine' and possession is very concrete to them.",
+        "childFeelings": "Your child might be feeling: Possessive ('It's MINE!'), anxious about losing a treasured item, confused about why they must give something up, or simply not understanding the concept of turn-taking yet.",
+        "empathyPrompt": "Imagine if someone suddenly demanded your phone or favorite coffee mug. To a child, their toy can feel just as important.",
+        "sampleResponses": [
+          "Acknowledge their ownership first: 'That's your special blue car, isn't it?'",
+          "Introduce and practice turn-taking: 'You can play with the truck for 2 more minutes, then it will be Sarah's turn. I'll set a timer.'",
+          "Don't force sharing of 'special' comfort items. Perhaps suggest other toys that can be shared.",
+          "Provide plenty of toys if multiple children are playing to reduce conflict.",
+          "Model sharing yourself in everyday situations.",
+          "Praise any attempts at sharing or turn-taking: 'That was kind of you to let Leo have a look!'"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "common_aggression",
+    "name": "Aggression (Biting, Hitting, Pushing)",
+    "emoji": "💥",
+    "overview": "Physical aggression in young children often stems from frustration, impulsivity, or an inability to communicate their needs and feelings verbally.",
+    "behaviors": [
+      {
+        "id": "aggression_responses",
+        "name": "Responding to Physical Aggression",
+        "emoji": "✋",
+        "explanation": "Biting, hitting, or pushing can be a way young children express intense feelings (anger, frustration), explore cause and effect, seek attention, defend their space/toys, or cope with being overwhelmed. They are still developing impulse control.",
+        "childFeelings": "Your child might be feeling: Angry, frustrated, overwhelmed, scared, trying to communicate a need, or lacking self-control.",
+        "empathyPrompt": "They don't have the sophisticated language or self-regulation skills yet to handle big feelings or conflicts in a 'better' way.",
+        "sampleResponses": [
+          "Intervene immediately and calmly. Say firmly, 'No hitting. Hitting hurts.' or 'We don't bite people.'",
+          "Focus your primary attention on the child who was hurt first. This avoids inadvertently reinforcing the aggressive behavior with attention.",
+          "Remove the aggressor from the situation for a brief cool-down if necessary.",
+          "Help them label their emotion: 'It looks like you were very angry that she took your toy.'",
+          "Teach alternative behaviors: 'If you're angry, you can tell her 'Stop!' or come get me for help.' 'If you want a toy, you can ask for a turn.'",
+          "Look for patterns: Does it happen when they are tired, hungry, or in specific situations? Address underlying triggers."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "common_defiance_power_struggles",
+    "name": "Defiance & Power Struggles",
+    "emoji": "🚫",
+    "overview": "The 'No!' phase and testing boundaries are normal parts of developing autonomy and understanding limits.",
+    "behaviors": [
+      {
+        "id": "defiance_strategies",
+        "name": "Managing Defiance and the 'No!' Phase",
+        "emoji": "💪",
+        "explanation": "Saying 'no,' resisting instructions, and testing limits are ways children (especially toddlers and preschoolers) assert their growing independence, explore their sense of agency, and learn about cause and effect in social interactions.",
+        "childFeelings": "Your child might be feeling: A desire for control, a need to assert their individuality, curious about your reaction, or frustrated by perceived limitations.",
+        "empathyPrompt": "They are trying to figure out 'Who am I?' and 'What can I control in this big world?' This is a healthy drive for autonomy.",
+        "sampleResponses": [
+          "Offer limited, acceptable choices: 'Would you like to wear the red shirt or the blue shirt?' instead of 'Do you want to get dressed?'",
+          "Stay calm and consistent with your boundaries. Avoid getting drawn into lengthy arguments.",
+          "Acknowledge their desire/feeling while upholding the limit: 'I know you want to keep playing, but it's time for dinner now.'",
+          "Use 'when-then' statements: 'When you put your toys away, then we can go to the park.'",
+          "Pick your battles. Is this issue truly important, or can you let it go?",
+          "Catch them being cooperative and praise that behavior specifically."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "common_lying_dishonesty",
+    "name": "Lying & Dishonesty (Age-Appropriate Contexts)",
+    "emoji": "🤥",
+    "overview": "Understanding why children might not tell the truth helps in responding constructively. Motivations change with age.",
+    "behaviors": [
+      {
+        "id": "lying_understanding_responses",
+        "name": "Addressing Untruths",
+        "emoji": "🤫",
+        "explanation": "Young children (preschoolers) often blur the lines between fantasy and reality; their 'lies' might be wishful thinking or part of imaginative play. Older children might lie to avoid punishment, to impress others, out of fear, or to test boundaries. It's rarely malicious in early childhood.",
+        "childFeelings": "Your child might be feeling: Scared of getting into trouble, wanting to please you, confused about what's real and pretend (younger), or testing what they can get away with.",
+        "empathyPrompt": "Consider *why* they might feel the need to not tell the truth in this situation. Are they afraid of your reaction?",
+        "sampleResponses": [
+          "For young children (fantasy): Gently clarify reality without shaming. 'That's a fun story about a dragon eating your homework! Now, let's find out what really happened.'",
+          "For avoiding punishment: Focus on the importance of honesty. 'It's important to tell the truth, even if you're worried about the consequence. We can solve problems together if I know what happened.'",
+          "Create a safe environment where mistakes are seen as learning opportunities.",
+          "Address the behavior that led to the lie separately from the lie itself (if appropriate).",
+          "Praise honesty, especially when it's difficult: 'Thank you for telling me the truth. I know that was hard.'"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "common_picky_eating",
+    "name": "Picky Eating",
+    "emoji": "🥦",
+    "overview": "Picky eating is a common phase. Creating a positive and low-pressure mealtime environment is key.",
+    "behaviors": [
+      {
+        "id": "picky_eating_strategies",
+        "name": "Strategies for Picky Eaters",
+        "emoji": "🥕",
+        "explanation": "Many children go through phases of picky eating. This can be due to neophobia (fear of new foods), asserting independence, sensory sensitivities to textures or tastes, or simply a slower-to-warm-up temperament.",
+        "childFeelings": "Your child might be feeling: Suspicious of new foods, dislike of certain textures/tastes, a desire for control over what they eat, or not particularly hungry.",
+        "empathyPrompt": "Imagine being presented with unfamiliar food day after day. It can be a lot for a small person to process. Their taste buds are also more sensitive.",
+        "sampleResponses": [
+          "Continue to offer a variety of healthy foods without pressure. It can take 10-15 (or more!) exposures for a child to accept a new food.",
+          "Serve at least one food at each meal that you know your child usually likes.",
+          "Involve children in food preparation (washing veggies, stirring, choosing between two healthy options). This increases their investment.",
+          "Model healthy eating yourself. Children learn by watching you.",
+          "Keep mealtimes pleasant and low-stress. Avoid turning meals into battles.",
+          "Avoid bribing or forcing. 'You don't have to eat it, but it stays on your plate.'"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "common_sleep_challenges",
+    "name": "Sleep Challenges",
+    "emoji": "😴",
+    "overview": "Bedtime resistance and night wakings can be trying. Consistent routines and addressing underlying causes can help.",
+    "behaviors": [
+      {
+        "id": "sleep_bedtime_resistance",
+        "name": "Bedtime Resistance & Night Wakings",
+        "emoji": "🌙",
+        "explanation": "Difficulties with sleep can arise from separation anxiety, fears (of the dark, monsters), overtiredness (making it harder to settle), undertiredness, inconsistent routines, developmental leaps, or discomfort.",
+        "childFeelings": "Your child might be feeling: Anxious about being alone, scared, not wanting to miss out on activity, difficulty winding down, or physically uncomfortable.",
+        "empathyPrompt": "Bedtime can feel like a big separation, and the dark can be scary for a little one. They might genuinely need reassurance or a change in routine.",
+        "sampleResponses": [
+          "Establish a consistent, calming bedtime routine (e.g., bath, book, song, cuddle). Start it before they are overtired.",
+          "Ensure their sleep environment is comfortable, dark, and quiet (or with white noise if preferred).",
+          "Acknowledge and address fears calmly: 'I understand you're feeling scared. I'm here, and you are safe.' Offer a nightlight if it helps.",
+          "For night wakings, try to keep interactions brief, calm, and boring to encourage them to go back to sleep in their own bed.",
+          "Offer choices within the routine: 'Which pajamas tonight? Which two books shall we read?'",
+          "Review daytime naps and overall sleep schedule to ensure it's age-appropriate."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "common_whining",
+    "name": "Whining",
+    "emoji": "😫",
+    "overview": "Whining is often a sign of frustration, fatigue, or a learned way to get attention or express a need.",
+    "behaviors": [
+      {
+        "id": "whining_addressing",
+        "name": "Responding to Whining",
+        "emoji": "📢",
+        "explanation": "Children may whine when they are tired, hungry, bored, feeling unheard, or when they are trying to communicate a need or frustration but lack more effective ways to do so. It can also be a learned behavior if it has previously resulted in getting what they want.",
+        "childFeelings": "Your child might be feeling: Frustrated, powerless, tired, hungry, bored, seeking connection, or that their needs aren't being met.",
+        "empathyPrompt": "Whining is irritating, but try to hear the underlying message or unmet need. What are they *really* trying to communicate?",
+        "sampleResponses": [
+          "Acknowledge the feeling, but not the whine itself: 'I can see you're feeling frustrated.'",
+          "Prompt for a different way of speaking: 'I can't understand you when you use that voice. Can you try using your regular talking voice?'",
+          "Model the desired way to ask: 'You can say, 'Mommy, can I please have some water?''",
+          "Give positive attention when they use their regular voice or communicate effectively, especially if they switch from whining.",
+          "Ensure their basic needs (hunger, thirst, rest) are met, as these are common triggers.",
+          "Avoid giving in to demands made while whining, as this reinforces the behavior."
+        ]
+      }
+    ]
+  }
+]
