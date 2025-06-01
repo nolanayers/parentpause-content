@@ -1,74 +1,540 @@
 {
   "0": [
-    { "category": "Entertainment", "items": ["High-contrast cards/toys", "Soft mobiles", "Parent's face and voice"] },
-    { "category": "Activity", "items": ["Supervised tummy time", "Gentle rocking/cuddling", "Responding to cues"] },
-    { "category": "Social", "items": ["Skin-to-skin contact", "Talking and singing to baby", "Mirror play (later in range)"] },
-    { "category": "Nutrition", "items": ["Breast milk or formula exclusively", "Responsive feeding (on demand)", "Burping after feeds"] }
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "High-contrast cards and toys (black and white patterns)",
+        "Soft mobiles with gentle movement", 
+        "Parent's face and voice (most important entertainment)",
+        "Simple classical or lullaby music",
+        "Colorful scarves for gentle visual stimulation"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Supervised tummy time (start with 2-3 minutes, several times daily)",
+        "Gentle rocking and cuddling for comfort and bonding", 
+        "Responding promptly to baby's cues and needs",
+        "Slow, gentle movements to help with visual tracking",
+        "Light massage during diaper changes"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Skin-to-skin contact for bonding and regulation",
+        "Talking and singing to baby throughout daily routines", 
+        "Making eye contact during feeding and care",
+        "Responding to baby's early social cues and expressions",
+        "Creating a calm, predictable environment"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Breast milk or formula exclusively for first 6 months",
+        "Responsive feeding (follow baby's hunger and fullness cues)", 
+        "Burping after feeds to prevent discomfort",
+        "Establishing a comfortable feeding routine",
+        "Ensuring proper latch (for breastfeeding) or bottle positioning"
+      ] 
+    }
   ],
   "0.25": [
-    { "category": "Entertainment", "items": ["High-contrast cards/toys", "Soft mobiles", "Parent's face and voice", "Baby gym with dangling toys"] },
-    { "category": "Activity", "items": ["Supervised tummy time (increasing duration)", "Gentle rocking/cuddling", "Responding to coos and babbles", "Tracking objects with eyes"] },
-    { "category": "Social", "items": ["Skin-to-skin contact", "Talking, singing, and reading to baby", "Smiling and making faces", "Responding to social smiles"] },
-    { "category": "Nutrition", "items": ["Breast milk or formula exclusively", "Responsive feeding (on demand)", "Burping after feeds"] }
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "High-contrast cards and simple picture books",
+        "Soft mobiles with varied textures and colors", 
+        "Parent's animated face and varied vocal tones",
+        "Baby gym with dangling toys at appropriate height",
+        "Soft rattles for brief, supervised exploration"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Supervised tummy time (increase to 5-10 minutes, multiple times daily)",
+        "Gentle rocking, swaying, and cuddling", 
+        "Responding to and encouraging early coos and babbles",
+        "Helping baby track objects with eyes across visual field",
+        "Gentle bicycle leg movements during diaper changes"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Continued skin-to-skin contact for bonding",
+        "Talking, singing, and reading simple books to baby", 
+        "Smiling and making exaggerated facial expressions",
+        "Responding enthusiastically to baby's first social smiles",
+        "Establishing predictable daily routines for security"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Continue exclusive breast milk or formula feeding",
+        "Feed on demand while noting emerging patterns", 
+        "Burp thoroughly after feeds",
+        "Watch for growth spurts and adjust feeding frequency",
+        "Maintain comfortable, quiet feeding environment"
+      ] 
+    }
   ],
   "0.5": [
-    { "category": "Entertainment", "items": ["Soft blocks", "Board books", "Stacking rings", "Sensory balls", "Rattles and shakers", "Activity mats"] },
-    { "category": "Activity", "items": ["Supervised floor play (encouraging rolling)", "Sitting with support", "Singing songs with actions", "Introducing different textures"] },
-    { "category": "Social", "items": ["Peek-a-boo", "Mirror play", "Simple turn-taking games (e.g., rolling a ball gently)", "Responding to babbles and laughter"] },
-    { "category": "Nutrition", "items": ["Begin introducing single-ingredient purees (around 6m, with pediatrician's guidance)", "Continue breast milk/formula as primary source", "Offer water in a sippy cup (small amounts with solids)"] }
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Soft fabric blocks for grasping and mouthing",
+        "Board books with large, colorful pictures", 
+        "Stacking rings (large, safe size)",
+        "Sensory balls with different textures",
+        "Rattles and soft shakers for cause-and-effect learning",
+        "Activity mats with various textures and sounds"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Supervised floor play encouraging rolling both directions",
+        "Sitting with support (pillows, your lap)", 
+        "Singing action songs with gentle movements",
+        "Introducing different safe textures (soft fabrics, smooth wood)",
+        "Reaching and grasping activities to develop hand-eye coordination"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Peek-a-boo games (start simple, increase complexity)",
+        "Mirror play for self-recognition development", 
+        "Simple turn-taking games (rolling a soft ball gently)",
+        "Responding to and expanding on baby's babbles and laughter",
+        "Reading books together with animated expressions"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Begin introducing single-ingredient purees around 6 months (with pediatrician approval)",
+        "Continue breast milk or formula as primary nutrition source", 
+        "Offer small amounts of water in sippy cup when starting solids",
+        "Watch for signs of readiness: sitting with support, interest in food, loss of tongue-thrust reflex",
+        "Introduce new foods one at a time, waiting 3-5 days between new foods"
+      ] 
+    }
   ],
   "0.75": [
-    { "category": "Entertainment", "items": ["Soft blocks", "Board books", "Stacking cups/rings", "Toys that make noise (shakers, xylophones)", "Push toys (when starting to cruise)"] },
-    { "category": "Activity", "items": ["Supervised floor play (encouraging crawling, pulling up)", "Practice sitting independently", "Reading books together", "Outdoor time on a blanket"] },
-    { "category": "Social", "items": ["Peek-a-boo and other simple interactive games", "Waving 'bye-bye'", "Responding to gestures", "Naming familiar people and objects"] },
-    { "category": "Nutrition", "items": ["Offer a variety of pureed and mashed foods", "Introduce soft finger foods (cooked peas, soft fruits)", "Encourage self-feeding with hands", "Continue breast milk/formula"] }
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Soft blocks for stacking and knocking down",
+        "Board books with simple stories and textures", 
+        "Stacking cups and rings for size/order concepts",
+        "Musical toys (shakers, simple xylophones)",
+        "Push toys for when baby starts cruising furniture",
+        "Cause-and-effect toys (pop-up toys, simple switches)"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Supervised floor play encouraging crawling and pulling up",
+        "Practice sitting independently with toys within reach", 
+        "Daily book reading with interactive elements",
+        "Outdoor time on blankets for sensory experiences",
+        "Simple obstacle courses with pillows and soft barriers"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Peek-a-boo and hide-and-seek variations",
+        "Teaching and practicing 'bye-bye' waving", 
+        "Responding to and teaching simple gestures",
+        "Naming familiar people and objects consistently",
+        "Playing simple imitation games (clapping, sounds)"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Offer variety of pureed and mashed foods from all food groups",
+        "Introduce appropriate soft finger foods (cooked peas, soft fruit pieces)", 
+        "Encourage self-feeding with hands to develop independence",
+        "Continue breast milk or formula (still primary nutrition)",
+        "Create positive mealtime atmosphere with family when possible"
+      ] 
+    }
   ],
   "1": [
-    { "category": "Entertainment", "items": ["Soft blocks", "Chunky puzzles", "Board books with textures", "Stacking rings/cups", "Push and pull toys", "Toy phone"] },
-    { "category": "Activity", "items": ["Encourage walking/cruising", "Simple sorting games (e.g., shapes)", "Reading books daily", "Playing with balls (rolling, gentle throwing)"] },
-    { "category": "Social", "items": ["Pointing to body parts", "Imitating actions and sounds", "Parallel play with other children (playing alongside)", "Responding to simple instructions"] },
-    { "category": "Nutrition", "items": ["Offer 3 meals and 2 snacks", "Variety of soft, chopped foods", "Encourage use of sippy cup for milk/water", "Family mealtimes when possible"] }
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Soft blocks for building and knocking down",
+        "Simple chunky puzzles (2-3 large pieces)", 
+        "Board books with interactive elements (textures, flaps)",
+        "Stacking rings and nesting cups",
+        "Push and pull toys for walking practice",
+        "Toy telephone for pretend play beginnings"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Encourage walking and cruising with support and motivation",
+        "Simple sorting games (shapes, colors - basic level)", 
+        "Daily book reading with child participation",
+        "Ball play (rolling, gentle throwing, kicking)",
+        "Dance and movement to music",
+        "Simple household 'chores' (putting toys in bins)"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Body part identification games ('Where's your nose?')",
+        "Imitating actions and simple sounds/words", 
+        "Parallel play opportunities with other children",
+        "Following simple one-step instructions consistently",
+        "Expressing affection through hugs and kisses",
+        "Beginning turn-taking in simple games"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Offer 3 small meals and 2 healthy snacks daily",
+        "Provide variety of soft, appropriately chopped foods", 
+        "Encourage sippy cup use for milk and water",
+        "Include child in family mealtimes when possible",
+        "Model eating behaviors and positive food attitudes",
+        "Allow self-feeding even if messy"
+      ] 
+    }
   ],
   "1.25": [
-    { "category": "Entertainment", "items": ["Chunky puzzles (2-4 pieces)", "Nesting toys", "Books with simple stories", "Crayons and large paper (supervised)", "Toy cars and animals"] },
-    { "category": "Activity", "items": ["Walking, running (in safe areas)", "Climbing low structures (supervised)", "Scribbling with crayons", "Helping with simple 'chores' (e.g., putting toys in a bin)"] },
-    { "category": "Social", "items": ["Showing affection (hugs, kisses)", "Playing simple pretend games (e.g., feeding a doll)", "Naming familiar objects and pictures", "Following two-step directions (sometimes)"] },
-    { "category": "Nutrition", "items": ["Offer a variety of healthy foods from all food groups", "Model good eating habits", "Allow for some food preferences but continue to offer variety", "Transition from bottle to cup if not already done"] }
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Chunky puzzles with 2-4 large pieces",
+        "Nesting toys and stacking cups", 
+        "Picture books with simple storylines",
+        "Large crayons and paper for supervised scribbling",
+        "Toy cars, trucks, and animal figures",
+        "Simple shape sorters"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Walking and beginning to run in safe, open areas",
+        "Climbing low, safe structures with supervision", 
+        "Scribbling and early mark-making with large crayons",
+        "Helping with age-appropriate tasks (sorting socks, wiping spills)",
+        "Dancing and moving to different types of music",
+        "Water play in bath or supervised outdoor activities"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Showing affection spontaneously with hugs and kisses",
+        "Beginning pretend play (feeding doll, pretend phone calls)", 
+        "Naming and pointing to familiar objects in books and environment",
+        "Following two-step directions with support and repetition",
+        "Expressing basic emotions and needs with words and gestures",
+        "Starting to understand 'mine' vs 'yours' (still learning to share)"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Offer variety of healthy foods from all food groups",
+        "Model positive eating habits and food attitudes", 
+        "Allow for developing food preferences while continuing to offer variety",
+        "Complete transition from bottle to cup if not already done",
+        "Encourage trying new foods without pressure",
+        "Make mealtimes social and pleasant experiences"
+      ] 
+    }
   ],
-   "1.5": [
-    { "category": "Entertainment", "items": ["Puzzles (4-6 pieces)", "Large beads for stringing (supervised)", "Picture books with more details", "Simple dress-up clothes", "Building blocks (e.g., Duplo)"] },
-    { "category": "Activity", "items": ["Outdoor play (running, jumping with two feet)", "Throwing a ball overhand", "Dancing to music", "Water play (supervised)"] },
-    { "category": "Social", "items": ["Engaging in pretend play", "Showing empathy (e.g., comforting a sad toy)", "Using 2-3 word phrases", "May start to show interest in playing with other children briefly"] },
-    { "category": "Nutrition", "items": ["Offer a variety of healthy foods, cut into manageable pieces", "Family meal times are important", "Involve in simple food prep (washing veggies, stirring with help)", "Be patient with picky eating phases"] }
+  "1.5": [
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Puzzles with 4-6 pieces and simple pictures",
+        "Large beads for stringing (always supervised)", 
+        "Picture books with more detailed illustrations",
+        "Simple dress-up clothes and accessories",
+        "Building blocks (Duplo-size for safety)",
+        "Beginner musical instruments (drums, simple keyboards)"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Outdoor play including running, jumping with both feet",
+        "Throwing balls overhand with increasing accuracy", 
+        "Dancing to music with creative movement",
+        "Supervised water play (sprinklers, water table)",
+        "Beginning to use riding toys (push with feet)",
+        "Simple art activities (finger painting, stamps)"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Engaging in more elaborate pretend play scenarios",
+        "Showing empathy (comforting upset friend or toy)", 
+        "Using 2-3 word phrases and short sentences",
+        "Beginning to show interest in brief play with other children",
+        "Understanding and expressing a wider range of emotions",
+        "Following simple rules with consistent reminders"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Offer variety of healthy foods cut into appropriate sizes",
+        "Make family meal times a priority for social learning", 
+        "Involve in simple food preparation (washing vegetables, stirring)",
+        "Be patient with normal picky eating phases",
+        "Limit processed foods and sugary drinks",
+        "Encourage drinking water throughout the day"
+      ] 
+    }
   ],
   "1.75": [
-    { "category": "Entertainment", "items": ["Puzzles (6-8 pieces)", "Matching games (colors, shapes)", "Books with repetitive phrases", "Toy tools or kitchen sets", "Simple musical instruments"] },
-    { "category": "Activity", "items": ["Kicking a ball", "Walking up and down stairs (holding on)", "Sand play (supervised)", "Building towers with multiple blocks"] },
-    { "category": "Social", "items": ["Playing alongside other children, may start to interact more", "Using short sentences", "Expressing a wider range of emotions", "Following simple rules in games (with reminders)"] },
-    { "category": "Nutrition", "items": ["Continue offering a balanced diet", "Encourage trying new foods without pressure", "Talk about food in positive ways", "Limit sugary drinks and snacks"] }
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Puzzles with 6-8 pieces featuring favorite characters or animals",
+        "Matching games with colors, shapes, and simple objects", 
+        "Books with repetitive, predictable phrases",
+        "Toy tool sets or play kitchen equipment",
+        "Simple musical instruments and rhythm activities",
+        "Beginner construction toys with larger pieces"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Kicking balls with better aim and control",
+        "Walking up and down stairs while holding handrail", 
+        "Sand and sensory play with proper supervision",
+        "Building towers with 4-6 blocks",
+        "Beginning to pedal riding toys",
+        "Simple obstacle courses with pillows and furniture"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Playing alongside other children with increasing interaction",
+        "Using longer sentences and expanding vocabulary", 
+        "Expressing wider range of emotions with words",
+        "Beginning to follow simple game rules with adult support",
+        "Showing concern for others' feelings",
+        "Understanding concepts of 'sharing' and 'taking turns'"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Continue offering balanced diet from all food groups",
+        "Encourage trying new foods without pressure or bribery", 
+        "Talk about foods in positive ways (avoid 'good' vs 'bad' labels)",
+        "Limit juice and sugary drinks, emphasize water",
+        "Include child in grocery shopping and food choices",
+        "Model adventurous eating and positive food attitudes"
+      ] 
+    }
   ],
   "2": [
-    { "category": "Entertainment", "items": ["Puzzles (8-12 pieces)", "Art supplies (washable markers, paint sticks)", "Story books with engaging plots", "Ride-on toys (without pedals)", "Simple construction toys"] },
-    { "category": "Activity", "items": ["Running, jumping, climbing with more confidence", "Sorting objects by color or shape", "Stringing large beads", "Helping with household tasks (e.g., wiping spills)"] },
-    { "category": "Social", "items": ["Showing more interest in cooperative play (briefly)", "Taking turns (with guidance)", "Using pronouns (I, me, you)", "Understanding simple concepts like 'mine' and 'yours' (still learning to share)"] },
-    { "category": "Nutrition", "items": ["Offer three main meals and 1-2 healthy snacks", "Encourage self-feeding with utensils", "Involve child in choosing healthy snacks", "Make mealtimes pleasant and social"] }
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Puzzles with 8-12 pieces and familiar themes",
+        "Art supplies: washable markers, paint sticks, large brushes", 
+        "Story books with engaging plots and character development",
+        "Ride-on toys without pedals for balance and coordination",
+        "Construction toys with medium-sized pieces",
+        "Simple board games with minimal rules"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Running, jumping, and climbing with increased confidence",
+        "Sorting objects by multiple attributes (color, shape, size)", 
+        "Stringing large beads and lacing cards",
+        "Helping with meaningful household tasks (folding washcloths, setting table)",
+        "Beginning to use scissors with supervision",
+        "Playground activities requiring more complex coordination"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Showing increased interest in cooperative play for short periods",
+        "Learning to take turns with adult guidance and reminders", 
+        "Using pronouns correctly (I, me, you, mine)",
+        "Understanding concepts of ownership while learning to share",
+        "Playing simple pretend games with basic storylines",
+        "Beginning to resolve conflicts with adult support"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Offer three balanced meals and 1-2 nutritious snacks daily",
+        "Encourage independent eating with child-sized utensils", 
+        "Involve child in choosing between healthy snack options",
+        "Make mealtimes pleasant, social experiences without pressure",
+        "Teach about different food groups in simple terms",
+        "Continue to model positive eating behaviors"
+      ] 
+    }
   ],
   "3": [
-    { "category": "Entertainment", "items": ["Puzzles (12-20 pieces)", "Crayons, markers, safety scissors, glue", "Picture books with developing stories", "Simple dress-up clothes and props", "Building blocks (Lego Duplo, wooden blocks)"] },
-    { "category": "Activity", "items": ["Outdoor play (running, climbing, jumping)", "Riding a tricycle", "Dancing to music, imaginative movement", "Building more complex structures with blocks", "Throwing/kicking/catching a soft ball"] },
-    { "category": "Social", "items": ["Playdates with one or two children", "Learning to share toys (with adult guidance and support)", "Participating in simple group games", "Talking about feelings and understanding others' feelings (basic empathy)"] },
-    { "category": "Nutrition", "items": ["Offer a variety of healthy foods from all food groups", "Establish regular family meal times", "Involve in simple food preparation (e.g., washing fruits/vegetables, stirring)", "Model healthy eating habits and positive attitudes towards food"] }
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Puzzles with 12-20 pieces featuring detailed scenes",
+        "Comprehensive art supplies: crayons, markers, safety scissors, glue sticks", 
+        "Picture books with developing storylines and character arcs",
+        "Dress-up clothes and props for elaborate role-playing",
+        "Building blocks (Duplo, wooden blocks) for complex structures",
+        "Simple board games focusing on matching, memory, and basic strategy"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Outdoor play: running, climbing, jumping with confidence and coordination",
+        "Riding tricycles and beginning to learn pedaling motion", 
+        "Dancing to music with creative, imaginative movement",
+        "Building increasingly complex structures with various materials",
+        "Ball activities: throwing, catching, kicking with improved accuracy",
+        "Beginning sports skills (T-ball, soccer basics)"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Organizing and enjoying playdates with one or two children",
+        "Learning to share toys and take turns with guidance and practice", 
+        "Participating in simple group games and activities",
+        "Talking about feelings and beginning to understand others' emotions",
+        "Engaging in cooperative pretend play with shared storylines",
+        "Following multi-step instructions and classroom-type routines"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Offer balanced variety from all food groups at meals and snacks",
+        "Establish and maintain regular family meal times", 
+        "Involve in age-appropriate food preparation (washing produce, stirring, measuring)",
+        "Model healthy eating habits and positive attitudes toward all foods",
+        "Teach basic nutrition concepts (foods help us grow strong)",
+        "Limit processed foods and educate about 'sometimes' vs 'everyday' foods"
+      ] 
+    }
   ],
   "4": [
-    { "category": "Entertainment", "items": ["Puzzles (20+ pieces, simple jigsaw)", "More detailed art supplies (paint, playdough)", "Early reader books or longer picture books", "Board games with simple rules (e.g., matching, memory)", "Construction toys with smaller pieces (e.g., basic Lego)"] },
-    { "category": "Activity", "items": ["Hopping on one foot, skipping (learning)", "Catching a bounced ball", "Learning to use playground equipment like swings and slides independently", "Drawing simple recognizable pictures"] },
-    { "category": "Social", "items": ["Engaging in cooperative play with peers", "Understanding and following rules in games", "Telling simple stories", "Showing more independence in social situations (e.g., at preschool)"] },
-    { "category": "Nutrition", "items": ["Continue offering balanced meals and snacks", "Teach basic concepts of healthy vs. unhealthy foods", "Involve in simple meal planning or choosing what goes into a packed lunch", "Encourage drinking water over sugary drinks"] }
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Puzzles with 20+ pieces and simple jigsaw varieties",
+        "Detailed art supplies: paints, playdough, craft materials", 
+        "Early reader books and longer, more complex picture books",
+        "Board games with simple rules (Candy Land, Chutes and Ladders)",
+        "Construction toys with smaller pieces (basic Lego sets)",
+        "Science kits and simple experiments"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Hopping on one foot and learning to skip",
+        "Catching bounced balls and thrown bean bags", 
+        "Using playground equipment independently (swings, slides, monkey bars)",
+        "Drawing recognizable pictures and beginning to write letters",
+        "Cooking activities: measuring, mixing, following simple recipes",
+        "Organized sports introduction (soccer, baseball, swimming lessons)"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Engaging in sustained cooperative play with multiple children",
+        "Understanding and consistently following rules in games and activities", 
+        "Telling stories with beginning, middle, and end",
+        "Showing independence in social situations (preschool, playdates)",
+        "Demonstrating empathy and helping friends in need",
+        "Beginning to understand friendship dynamics and social hierarchies"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Continue offering balanced, varied meals and healthy snacks",
+        "Teach concepts of healthy vs. less healthy food choices", 
+        "Involve in meal planning and grocery shopping decisions",
+        "Encourage drinking water as primary beverage choice",
+        "Discuss how different foods help our bodies function",
+        "Practice table manners and social eating behaviors"
+      ] 
+    }
   ],
   "5": [
-    { "category": "Entertainment", "items": ["Board games with simple rules and turn-taking", "Craft supplies (scissors, glue, paint, beads)", "Early reader books (phonics-based)", "Interactive learning apps (supervised, educational focus)", "More complex construction toys (e.g., Lego sets with instructions)"] },
-    { "category": "Activity", "items": ["Bike riding with training wheels or balance bike", "Simple sports skills (kicking a soccer ball, T-ball basics)", "Playground activities requiring more coordination (monkey bars with help)", "Learning to skip effectively, hopping for longer distances"] },
-    { "category": "Social", "items": ["Developing friendships, having 'best friends'", "Understanding taking turns and sharing more consistently", "Participating in group activities at school/preschool", "Engaging in more elaborate role-playing and imaginative games"] },
-    { "category": "Nutrition", "items": ["Balanced meals with all food groups represented", "Healthy snacks that provide sustained energy", "Teach about making healthy food choices independently (e.g., choosing fruit over candy)", "Involve in packing their own lunch or preparing simple snacks"] }
+    { 
+      "category": "Entertainment", 
+      "items": [
+        "Board games requiring strategy and turn-taking (Connect Four, Uno)",
+        "Advanced craft supplies: beads, fabric, more complex projects", 
+        "Early reader books with phonics-based learning",
+        "Educational apps and games (supervised, time-limited)",
+        "Complex construction toys (Lego sets with detailed instructions)",
+        "Science experiments and nature exploration kits"
+      ] 
+    },
+    { 
+      "category": "Activity", 
+      "items": [
+        "Bike riding with training wheels or balance bike mastery",
+        "Sports skills development (soccer drills, baseball fundamentals)", 
+        "Advanced playground skills (monkey bars, rock climbing walls)",
+        "Consistent skipping and hopping for extended periods",
+        "Art projects requiring fine motor skills and planning",
+        "Beginning team sports participation"
+      ] 
+    },
+    { 
+      "category": "Social", 
+      "items": [
+        "Developing close friendships and understanding 'best friend' concepts",
+        "Consistently taking turns and sharing without adult reminders", 
+        "Participating actively in group activities and team games",
+        "Engaging in elaborate role-playing with complex storylines",
+        "Understanding and following school/classroom behavioral expectations",
+        "Beginning to navigate social conflicts independently"
+      ] 
+    },
+    { 
+      "category": "Nutrition", 
+      "items": [
+        "Balanced meals representing all food groups with appropriate portions",
+        "Healthy snacks that provide sustained energy for active play", 
+        "Making independent healthy food choices when presented with options",
+        "Participating in packing own lunch and preparing simple snacks",
+        "Understanding basic nutrition labels and making informed choices",
+        "Demonstrating table manners and appropriate social eating behaviors"
+      ] 
+    }
   ]
 }
