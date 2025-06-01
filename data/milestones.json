@@ -1,0 +1,131 @@
+[
+  {
+    "ageValue": 0,
+    "displayLabel": "Newborn",
+    "milestones": [
+      {
+        "categoryName": "Physical Development",
+        "emoji": "💪",
+        "overview": "Newborn physical development is characterized by reflexive actions, gradual muscle strength gain, and sensory exploration. They depend entirely on caregivers for their needs.",
+        "points": [
+          { "id": "nb_phys_1", "emoji": "👶", "summary": "Reflexive movements prominent", "elaboration": "Newborns exhibit several involuntary reflexes critical for survival and early learning. Key reflexes include rooting (turning head towards cheek touch, seeking nourishment), sucking, Moro (startle reflex - flinging arms out then pulling them in when startled), and grasping (closing fingers around an object). These are signs of a healthy nervous system.", "activities": ["Gently stroke baby's cheek to observe rooting.", "Place your finger in baby's palm for grasping reflex."] },
+          { "id": "nb_phys_2", "emoji": "🤸", "summary": "Lifts head briefly during tummy time", "elaboration": "When placed on their stomach (tummy time), newborns can lift their head just enough to turn it from side to side. This builds crucial neck and upper body strength. Tummy time should always be supervised and started with short durations.", "activities": ["Start with short, frequent tummy time sessions (2-3 minutes) when baby is awake and alert.", "Place a high-contrast toy or your face in their line of sight to encourage head lifting."] },
+          { "id": "nb_phys_3", "emoji": "👀", "summary": "Focuses on faces and objects 8-12 inches away", "elaboration": "A newborn's vision is still developing. They can best focus on objects or faces that are about 8-12 inches away – roughly the distance to a caregiver's face when being held. They are particularly drawn to human faces and high-contrast patterns.", "activities": ["Hold baby close and make eye contact while talking or singing.", "Show black-and-white or high-contrast patterned toys or cards."] },
+          { "id": "nb_phys_4", "emoji": "✊", "summary": "Keeps hands in tight fists", "elaboration": "Newborns often keep their hands tightly clenched in fists, a common palmar grasp reflex. Hands will gradually open more as they develop and reflexes integrate. This is a normal part of their early motor development.", "activities": ["Gently stroke the back of their hand to encourage them to open their fist.", "Allow them to grasp your finger if their fist opens during feeding or quiet alert times."] }
+        ]
+      },
+      {
+        "categoryName": "Cognitive Development",
+        "emoji": "🧠",
+        "overview": "Cognitive development in newborns involves processing sensory information from their environment, learning through inherent reflexes, and beginning to recognize familiar stimuli like voices and faces.",
+        "points": [
+          { "id": "nb_cog_1", "emoji": "👂", "summary": "Responds to loud sounds", "elaboration": "Newborns can hear from birth and will often startle, blink, cry, or show a change in activity in response to sudden, loud noises. They may also turn their head towards the direction of a persistent sound.", "activities": ["Talk and sing to your baby regularly in a calm, soothing voice.", "Observe their reaction to everyday household sounds, being mindful not to make them too loud or startling."] },
+          { "id": "nb_cog_2", "emoji": "🗣️", "summary": "Prefers human voices", "elaboration": "Babies are biologically wired to connect with caregivers. They often show a preference for the sound of human voices, especially their mother's voice, which they may recognize from the womb. They may calm or become more alert when spoken to.", "activities": ["Narrate your day to your baby, describing what you're doing.", "Read simple, rhythmic books aloud with varying intonation."] },
+          { "id": "nb_cog_3", "emoji": "🔄", "summary": "Begins to track moving objects slowly", "elaboration": "While their vision is still maturing, newborns can begin to follow a slowly moving object or face with their eyes, especially if it's large, high-contrast, and within their optimal focal range (8-12 inches). Tracking may be jerky at first.", "activities": ["Slowly move a colorful toy or your face from side to side in front of them.", "Use a mobile above their crib (ensure it's safely out of reach and remove when baby can push up)."] }
+        ]
+      },
+      {
+        "categoryName": "Social & Emotional Development",
+        "emoji": "😊",
+        "overview": "Social and emotional development in newborns is centered on forming vital attachments with primary caregivers, expressing basic needs for survival and comfort, and responding to caregiver comfort.",
+        "points": [
+          { "id": "nb_soc_1", "emoji": "🤗", "summary": "Calms to a caregiver's voice or touch", "elaboration": "The sound of a familiar voice, gentle rocking, swaddling, or being held can be very soothing for a newborn. This responsive care helps them feel secure, regulates their nervous system, and builds the foundation for attachment.", "activities": ["Respond to cries promptly and with comfort, trying different soothing techniques.", "Practice skin-to-skin contact, which can be very calming for both baby and parent."] },
+          { "id": "nb_soc_2", "emoji": "👁️", "summary": "Makes eye contact, especially during feeding", "elaboration": "Newborns will make brief periods of eye contact, particularly during intimate moments like feeding or quiet alert times. This is a crucial part of early bonding and communication, signaling engagement.", "activities": ["Look into your baby's eyes while feeding, cuddling, or talking to them.", "Hold them in an en face position (face-to-face)."] },
+          { "id": "nb_soc_3", "emoji": "😭", "summary": "Expresses needs primarily through crying", "elaboration": "Crying is a newborn's primary way of communicating hunger, discomfort (wet diaper, too hot/cold), tiredness, loneliness, or a need for comfort. Learning to interpret different cries takes time and observation.", "activities": ["Try to identify patterns in cries (e.g., hunger cry vs. pain cry).", "Cycle through potential needs: feeding, diaper change, comfort, burping, temperature check."] }
+        ]
+      },
+      {
+        "categoryName": "Language & Communication",
+        "emoji": "💬",
+        "overview": "Newborn communication is primarily reflexive and non-verbal, focused on expressing needs and responding to sensory input from caregivers.",
+        "points": [
+          { "id": "nb_lang_1", "emoji": "😮", "summary": "Makes small throaty sounds", "elaboration": "Aside from crying, newborns make small, often involuntary, throaty sounds, gurgles, or sighs. These are early vocalizations as they begin to explore their vocal abilities.", "activities": ["Respond to these sounds with gentle words and a soft tone.", "Mimic some of their simpler sounds back to them."] },
+          { "id": "nb_lang_2", "emoji": "😲", "summary": "Startles or quiets to sounds", "elaboration": "As mentioned in cognitive development, their response to sound is a form of communication. Quieting to a familiar voice can indicate recognition and comfort, while startling indicates surprise or being overwhelmed.", "activities": ["Pay attention to how your baby reacts to different types of sounds.", "Use a soothing, consistent tone when speaking to them."] }
+        ]
+      }
+    ]
+  },
+  {
+    "ageValue": 0.25,
+    "displayLabel": "0-3 months",
+    "milestones": [
+      {
+        "categoryName": "Physical Development",
+        "emoji": "💪",
+        "overview": "During these crucial first few months, babies rapidly gain more control over their movements, especially their head and neck. Vision and tracking improve significantly, and they begin to explore with their hands.",
+        "points": [
+          { "id": "03_phys_1", "emoji": "👶", "summary": "Lifts head and chest during tummy time", "elaboration": "By 3 months, many babies can lift their head to a 45-degree angle, and some even to 90 degrees, often pushing up on their forearms during tummy time. This strengthens neck, shoulder, back, and arm muscles, which are foundational for later skills like rolling and sitting.", "activities": ["Continue daily supervised tummy time, gradually increasing duration.", "Place toys in an arc to encourage them to look up and around, strengthening different neck muscles."] },
+          { "id": "03_phys_2", "emoji": "✋", "summary": "Opens and shuts hands; brings hands to mouth", "elaboration": "Hands become less fisted for longer periods. Babies start to actively explore their hands, bringing them to their mouth for self-soothing and oral exploration (a key way babies learn about objects). They may begin to bat at dangling objects with more intention.", "activities": ["Provide safe, graspable toys like soft rattles, rings, or textured cloths.", "Hang a baby gym with interesting objects for them to look at, reach for, and bat."] },
+          { "id": "03_phys_3", "emoji": "👀", "summary": "Follows moving objects smoothly with eyes", "elaboration": "Visual tracking becomes much smoother and more coordinated. Babies can now follow objects (and people) more consistently across their field of vision and may even track them in a full 180-degree arc. Depth perception also begins to develop.", "activities": ["Play tracking games with a brightly colored toy, moving it slowly up, down, and side to side.", "Move around the room while talking to your baby so they can follow you with their eyes and head."] },
+          { "id": "03_phys_4", "emoji": "🦵", "summary": "Begins to push down with legs when feet are on a firm surface", "elaboration": "When held upright with their feet touching a surface, babies in this age range may start to bear some weight on their legs or make stepping/bouncing motions. This is known as the stepping reflex (present at birth but becomes more purposeful) and helps develop leg muscles.", "activities": ["Gently support your baby in a standing position on your lap or a firm surface, allowing them to feel their feet and practice pushing.", "Sing a song while gently bouncing them."] }
+        ]
+      },
+      {
+        "categoryName": "Cognitive Development",
+        "emoji": "🧠",
+        "overview": "Babies become much more aware of their surroundings and responsive. They show early signs of memory, begin to understand cause and effect through their actions, and their senses become more integrated.",
+        "points": [
+          { "id": "03_cog_1", "emoji": "😃", "summary": "Recognizes familiar faces and objects at a distance", "elaboration": "Vision continues to improve significantly. Babies can now recognize familiar caregivers (parents, siblings) and favorite toys from further away than in the newborn stage, showing excitement or interest.", "activities": ["Smile and talk to your baby enthusiastically when you enter the room or approach them.", "Point out familiar objects around the house and name them repeatedly."] },
+          { "id": "03_cog_2", "emoji": "咿", "summary": "Coos and gurgles; begins to babble (e.g., 'ah-goo')", "elaboration": "Vocalizations expand beyond crying and simple throaty sounds. Babies produce more varied cooing sounds (vowel sounds like 'ooh' and 'aah') and gurgling. Towards the end of this period, some may begin early babbling, experimenting with consonant-vowel combinations like 'ba', 'ga', 'ah-goo'.", "activities": ["Respond to your baby's coos and gurgles with words, smiles, and an encouraging tone.", "Imitate their sounds to encourage vocal turn-taking and show them you're listening."] },
+          { "id": "03_cog_3", "emoji": "👋", "summary": "Watches faces intently; smiles spontaneously (social smile)", "elaboration": "Social smiling usually emerges reliably by 2-3 months. This is a delightful milestone where the baby smiles in response to social interaction (seeing a parent's face, hearing their voice), not just reflexively. They become fascinated by human faces and expressions.", "activities": ["Spend lots of time face-to-face with your baby, smiling, talking, and making various expressions.", "Play simple imitation games with facial expressions like opening your mouth or sticking out your tongue."] },
+          { "id": "03_cog_4", "emoji": "🔔", "summary": "Shows anticipation for routine events (e.g., feeding)", "elaboration": "Babies start to learn routines and may show signs of anticipation. For example, they might get excited or make sucking motions when they see a bottle or when a caregiver prepares for feeding.", "activities": ["Establish simple, predictable routines for feeding, bathing, and sleeping.", "Talk to your baby about what's happening: 'It's time for your milk!'"] }
+        ]
+      },
+      {
+        "categoryName": "Social & Emotional Development",
+        "emoji": "😊",
+        "overview": "Attachment to primary caregivers deepens significantly. Social smiles become a powerful tool for connection, and babies begin to show more distinct responses to caregivers and their environment.",
+        "points": [
+          { "id": "03_soc_1", "emoji": "🥰", "summary": "Develops a social smile", "elaboration": "Around 6-8 weeks, but certainly by 3 months, babies typically develop a 'social smile' – a genuine smile in response to social interaction, like seeing a parent's face or hearing their voice. This is a key milestone in social bonding and emotional expression.", "activities": ["Smile warmly and often at your baby, especially when they make eye contact.", "Engage in playful interactions that elicit smiles, like gentle tickles or silly faces."] },
+          { "id": "03_soc_2", "emoji": "😀", "summary": "Enjoys playing with people and might cry when playing stops", "elaboration": "Babies start to actively enjoy social play and interaction. They might show delight (cooing, kicking, smiling) during interactions and express displeasure (fussing or crying) if the stimulating play is interrupted or stops.", "activities": ["Play peek-a-boo with a light blanket or your hands.", "Sing songs with actions and observe their reactions and engagement."] },
+          { "id": "03_soc_3", "emoji": "😌", "summary": "Begins to self-soothe (e.g., by sucking on hand or fingers)", "elaboration": "Babies start to develop early self-regulation skills. Bringing their hand or fingers to their mouth to suck is a common and effective way they attempt to calm and comfort themselves when tired, fussy, or overwhelmed.", "activities": ["Allow your baby opportunities to find their hand for sucking if they seem to need soothing (ensure hands are clean).", "Offer a pacifier if you choose to use one, especially for naps or bedtime."] },
+          { "id": "03_soc_4", "emoji": "👨‍👩‍👧", "summary": "Shows preference for primary caregiver(s)", "elaboration": "While still generally social, babies may start to show a clear preference for their primary caregivers, calming more quickly with them or responding more enthusiastically to their presence.", "activities": ["Ensure consistent, loving responses to your baby's needs to build secure attachment.", "Allow other trusted caregivers to also spend quality time with the baby."] }
+        ]
+      },
+      {
+        "categoryName": "Language & Communication",
+        "emoji": "💬",
+        "overview": "Vocal range expands significantly with cooing and gurgling. Babies become more responsive in 'conversations' and listen intently to voices.",
+        "points": [
+            { "id": "03_lang_1", "emoji": "옹알", "summary": "Makes cooing and gurgling sounds", "elaboration": "These are happy, vowel-like sounds ('aaah', 'oooh', 'eee') and gurgles that babies make when content. It's a sign they are exploring their vocal abilities and enjoying interaction.", "activities": ["Imitate your baby's coos and gurgles to encourage them.", "Have 'conversations' by responding to their sounds with words."] },
+            { "id": "03_lang_2", "emoji": "😮‍💨", "summary": "Turns head toward direction of sound/voices", "elaboration": "Babies become better at localizing sounds and will turn their head and eyes toward an interesting sound or a familiar voice. This shows developing auditory processing skills.", "activities": ["Call your baby's name from different sides of the room.", "Use toys that make gentle sounds to see if they turn towards them."] },
+            { "id": "03_lang_3", "emoji": "😃", "summary": "Responds with sounds when spoken to", "elaboration": "Babies begin to engage in early 'proto-conversations'. When you talk to them, they might respond with their own coos, gurgles, or babbles, showing they are learning the turn-taking rhythm of communication.", "activities": ["Pause after you speak to give your baby a chance to 'reply'.", "Use expressive tones and facial expressions when you talk."] }
+        ]
+      }
+    ]
+  },
+  {
+    "ageValue": 0.5,
+    "displayLabel": "3-6 months",
+    "milestones": [
+      { 
+        "categoryName": "Physical Development", 
+        "emoji": "💪", 
+        "overview": "Babies rapidly gain strength and coordination, leading to more purposeful movements like rolling and sitting with support. They become more adept at using their hands to explore objects.",
+        "points": [
+          { "id": "36_phys_1", "emoji":"🔄", "summary": "Rolls over (both directions eventually)", "elaboration": "Initially, your baby might roll from tummy to back, as this requires less coordination. Later, as core and arm strength improve, they'll master rolling from back to tummy. This new mobility opens up a whole new world for exploration!", "activities": ["Encourage lots of supervised floor play on a firm, safe surface.", "Place an enticing toy just out of reach to motivate them to roll towards it."] },
+          { "id": "36_phys_2", "emoji":"🧘", "summary": "Sits with support, then briefly without", "elaboration": "With improving head control and trunk strength, babies can sit propped up with pillows or in a supportive seat. Towards 6 months, many can sit unsupported for a few moments before toppling over. This is a big step towards independent play.", "activities": ["Practice sitting in a Boppy pillow or your lap for support.", "Once they have good head control, try very brief periods of unsupported sitting on a soft surface, always staying close."] },
+          { "id": "36_phys_3", "emoji":"뻗음", "summary": "Reaches for and grasps objects purposefully", "elaboration": "Reaching becomes less reflexive and more intentional. Your baby will see an object, reach for it (often using both hands at first), and try to grasp it. They are learning hand-eye coordination.", "activities": ["Dangle interesting toys within their reach during play time.", "Offer toys of different shapes and textures for them to practice grasping."] },
+          { "id": "36_phys_4", "emoji":"👄", "summary": "Brings objects to mouth", "elaboration": "The mouth is a primary tool for exploration at this age. Babies learn about texture, shape, and taste by mouthing objects. Ensure all items within reach are safe, clean, and too large to be a choking hazard.", "activities": ["Provide a variety of safe teething toys.", "Regularly clean toys that go in the mouth."] }
+      ]},
+      { 
+        "categoryName": "Cognitive Development", 
+        "emoji": "🧠", 
+        "overview": "Cognitive skills expand as babies show more curiosity about their environment, begin to understand cause and effect, and their memory improves.",
+        "points": [
+          { "id": "36_cog_1", "emoji":"🗣️", "summary": "Responds to own name", "elaboration": "Your baby may start to turn their head or show signs of recognition when they hear their name called. This indicates developing auditory processing and self-awareness.", "activities": ["Use your baby's name frequently and lovingly when talking to them.", "Call their name from different parts of the room to see if they orient towards you."] },
+          { "id": "36_cog_2", "emoji":"옹알", "summary": "Babbles with more variety (consonant-vowel strings)", "elaboration": "Babbling becomes more complex, with repeated consonant-vowel sounds like 'ba-ba-ba,' 'da-da-da,' or 'ma-ma-ma.' This is important practice for speech.", "activities": ["Repeat their babbles back to them and then add simple words.", "Sing songs and read books with repetitive sounds."] },
+          { "id": "36_cog_3", "emoji":"🤔", "summary": "Shows curiosity about objects and tries to get those out of reach", "elaboration": "Their world is expanding, and so is their desire to explore it. They'll actively try to reach for interesting things, showing developing problem-solving skills.", "activities": ["Place a favorite toy slightly out of reach during tummy time to encourage movement.", "Ensure their play area is safe for exploration."] }
+      ]},
+      { 
+        "categoryName": "Social & Emotional Development", 
+        "emoji": "😊", 
+        "overview": "Babies become more expressive and interactive with familiar people, clearly showing joy and other emotions. They are learning the back-and-forth of social engagement.",
+        "points": [
+          { "id": "36_soc_1", "emoji":"🧐", "summary": "Distinguishes familiar faces from strangers", "elaboration": "Your baby will likely show clear recognition and preference for familiar caregivers, smiling and cooing more readily. They might be more wary or quiet around unfamiliar people.", "activities": ["Continue warm, responsive interactions with your baby.", "When introducing new people, do so gradually and while holding your baby to provide security."] },
+          { "id": "36_soc_2", "emoji":"😄", "summary": "Likes to play with others, especially parents", "elaboration": "Social play becomes a highlight. They enjoy interactive games like peek-a-boo and respond with laughter and excitement to playful interactions.", "activities": ["Engage in daily playful interactions, making silly faces and sounds.", "Use puppets or soft toys to 'talk' to your baby."] },
+          { "id": "36_soc_3", "emoji":" зеркало", "summary": "Responds to other people’s expressions of emotion", "elaboration": "Babies start to mirror and respond to the emotions they see. If you smile, they might smile back; if you look sad, they might show concern. This is an early sign of empathy.", "activities": ["Exaggerate your facial expressions when interacting with your baby.", "Talk about emotions in a simple way: 'Mommy is happy!'"] }
+      ]}
+    ]
+  }
+]
